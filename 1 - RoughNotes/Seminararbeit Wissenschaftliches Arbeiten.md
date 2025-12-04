@@ -6,9 +6,9 @@ LightPROF and Paths over Graph are two concepts for empowering the capabilities 
 1. Abstract: Short summary of the paper (comes last)
 2. Introduction: first I will address the general problem that arises with the use of LLMs. The core functionality many people are using them for in their everyday life is for knowledge acquisition. Humans are providing the LLM with a problem they require and expect a concrete answer to. This is a problem, because LLMs inherently lack the skill of providing factual knowledge. Instead they tend to hallucinate, providing answers that seem plausible but lack any meaningful logical basis. Utilizing knowledge graphs is one popular way to tackle this problem. -> What are knowledge graphs, why can they provide a factual knowledge basis. In this paper, two different methods of utilizing knowledge graphs within LLMs will be introduced, that were both developed with different goals in minds, leading to different strengths and weaknesses. These will be assessed and compared, which may either conclude in one being generally superior to the other or both excelling in different fields. 
 3. Preliminaries: What are knowledge graphs, why are they necessary if one wants to improve the fact-fullness of LLMs, why do LLMs tend to hallucinate, what is Knowledge Graph Question Answering'
-4. Main Chapter 1: [[1_RoughNotes/LightPROF]]
+4. Main Chapter 1: [[1 - RoughNotes/LightPROF]]
    this Chapter will provide a summary of the methods the LightPROF approach utilizes.
-5. Main Chapter 2: [[1_RoughNotes/Paths over Graph]]
+5. Main Chapter 2: [[1 - RoughNotes/Paths over Graph]]
    this Chapter will provide a summary of the methods the Paths over Graph approach utilizes.
 6. Main Chapter 3: Comparative Discussion
    this Chapter will include the results achieved with both approaches, summarize the similarities and differences between them and contextualize them with some own thoughts on how they might compete with each other in different scenarios and use cases
