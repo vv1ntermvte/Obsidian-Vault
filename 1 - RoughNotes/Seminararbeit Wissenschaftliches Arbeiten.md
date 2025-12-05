@@ -24,3 +24,11 @@ https://www.researchgate.net/publication/372416758_Think-on-Graph_Deep_and_Respo
 
 Graph of thoughts. Info about LLM performance in various tasks
 https://dl.acm.org/doi/10.1609/aaai.v38i16.29720
+
+(2) Chain of thought
+https://dl.acm.org/doi/10.5555/3600270.3602070
+
+(2) language models are few shot learners 
+https://dl.acm.org/doi/abs/10.5555/3495724.3495883
+
+Within recent years, Large Language Models (LLMs) have been able to produce impressive results in a multitute of different tasks ranging from reading comprehension to ... [1] . This could be achieved through various measures, specifically scaling up model size to increase overall LLM efficiency [2] and applying prompt engineering techniques, such as chain-of-thought (CoT) or Graph of Thoughts (GoT), which have shown to improve LLM performance drastically, even on more complex tasks [3, 4]. Despite these measures taken, LLMs still have severe flaws in certain fields, especially when it comes to providing reliable knowledge. One drawback LLMs keep struggling with despite the established improvements, is hallucination. 
