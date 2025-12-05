@@ -12,7 +12,7 @@ LightPROF and Paths over Graph are two concepts for empowering the capabilities 
    this Chapter will provide a summary of the methods the Paths over Graph approach utilizes.
 6. Main Chapter 3: Comparative Discussion
    this Chapter will include the results achieved with both approaches, summarize the similarities and differences between them and contextualize them with some own thoughts on how they might compete with each other in different scenarios and use cases
-7. Conclusion: Summary of the knowledge gained in the previous chapters, especially 4, 5 and 6. This will be important for finishing the Introduction and writing the abstract. 
+7. Conclusion: Summary of the knowledge gained in the previous chapters, especially 4, 5 and 6. This will be important for finishing the Introduction and writing the abstract.
 
 Relevant sources:
 
