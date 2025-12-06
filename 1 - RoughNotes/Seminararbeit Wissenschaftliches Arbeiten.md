@@ -16,10 +16,10 @@ LightPROF and Paths over Graph are two concepts for empowering the capabilities 
 
 Relevant sources:
 
-Roadmap for the unification of Large Language Models and Knowledge Graphs. Might has relevant information regarding the lacking of LLMs in factual knowledge (why knowledge graphs are promising)
+(8) Roadmap for the unification of Large Language Models and Knowledge Graphs. Might has relevant information regarding the lacking of LLMs in factual knowledge (why knowledge graphs are promising)
 https://ieeexplore.ieee.org/document/10387715
 
-Think on Graph. Info about the struggle with deep and responsible reasoning
+(7) Think on Graph. Info about the struggle with deep and responsible reasoning
 https://www.researchgate.net/publication/372416758_Think-on-Graph_Deep_and_Responsible_Reasoning_of_Large_Language_Model_with_Knowledge_Graph
 
 (4) Graph of thoughts. Info about LLM performance in various tasks
@@ -31,11 +31,18 @@ https://dl.acm.org/doi/10.5555/3600270.3602070
 (2) language models are few shot learners 
 https://dl.acm.org/doi/abs/10.5555/3495724.3495883
 
-(5) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts
+(5) Paths over Graph
+
+(6) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts
 https://aclanthology.org/2024.acl-long.558/
+
+(9) LightPROF
+
 
 
 
 Abstract: This paper presents different existing methods of utilizing knowledge graphs on Large Language Models, in order to incorporate external knowledge into a models reasoning process, resulting in higher reliability and quality of results. Specifically, two state of the art frameworks are analyzed: Paths over Graph and LightPROF. Featuring different approaches, Paths over Graph focues on ... , while LightPROF ... ,. Both methods are subsequently compared with each other, leading to the conclusion, that ... , while ... . 
 
-Introduction: Within recent years, Large Language Models (LLMs) have been able to produce impressive results in a multitute of different tasks ranging from reading comprehension to ... [1]. This could be achieved through various measures, specifically tremendous amounts of pre-training, scaling up model size and applying prompt engineering techniques, which have shown to improve LLM performance drastically, even on more complex tasks [2, 3, 4]. Despite these measures taken, LLMs still have severe flaws in certain fields, especially when it comes to providing reliable knowledge. Two drawbacks LLMs keep struggling with, despite the established improvements, are hallucination and a lack transparency. For one, the internal knowledge of LLMs requires extensive and regular (re-)training, for  the provided knowledge to stay relevant as well as reasoning being accurate. Secondly, the black-box character of LLMs causes the knowledge interpretation to be entirely concealed, making proper validation of the reasoning process impossible [5].
+Introduction: Within recent years, Large Language Models (LLMs) have been able to produce impressive results in a multitute of different tasks in natural language processing, ranging from basic question answering to translation and text generation tasks [1]. This could be elevated through various measures, specifically tremendous amounts of pre-training, scaling up model size and applying prompt engineering techniques, which have shown to improve LLM performance drastically, even on more complex tasks [2, 3, 4]. Despite these measures taken, LLMs still have severe flaws in certain fields, especially when it comes to providing reliable knowledge. Two drawbacks LLMs keep struggling with, despite the established improvements, are hallucination and a lack transparency. For one, the internal knowledge of LLMs requires extensive and regular (re-)training, for  the provided knowledge to stay relevant as well as reasoning being accurate, which is high in cost and makes them prone to errors due to outdated or missing knowledge. Secondly, the black-box character of LLMs causes the knowledge interpretation to be entirely concealed, making proper validation of the reasoning process impossible [5, 6].
+
+To improve upon these issues, especially when facing complex knowledge intensive tasks that require deep and responsible reasoning, the incorporation of Knowledge Graphs (KGs) into the reasoning process of LLMs has shown to be a very promising approach [7]. KGs offer an extensive source of rich, factual knowledge, that can be leveraged as a reliable external knowledge base for accessible, accurate and relevant information [8, 9]. 
