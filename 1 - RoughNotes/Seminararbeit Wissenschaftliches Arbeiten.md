@@ -45,4 +45,15 @@ Abstract: This paper presents different existing methods of utilizing knowledge 
 
 Introduction: Within recent years, Large Language Models (LLMs) have been able to produce impressive results in a multitute of different tasks in natural language processing, ranging from basic question answering to translation and text generation tasks [1]. This could be elevated through various measures, specifically tremendous amounts of pre-training, scaling up model size and applying prompt engineering techniques, which have shown to improve LLM performance drastically, even on more complex tasks [2, 3, 4]. Despite these measures taken, LLMs still have severe flaws in certain fields, especially when it comes to providing reliable knowledge. Two drawbacks LLMs keep struggling with, despite the established improvements, are hallucination and a lack transparency. For one, the internal knowledge of LLMs requires extensive and regular (re-)training, for  the provided knowledge to stay relevant as well as reasoning being accurate, which is high in cost and makes them prone to errors due to outdated or missing knowledge. Secondly, the black-box character of LLMs causes the knowledge interpretation to be entirely concealed, making proper validation of the reasoning process impossible [5, 6].
 
-To improve upon these issues, especially when facing complex knowledge intensive tasks that require deep and responsible reasoning, the incorporation of Knowledge Graphs (KGs) into the reasoning process of LLMs has shown to be a very promising approach [7]. KGs offer an extensive source of rich, factual knowledge, that can be leveraged as a reliable external knowledge base for accessible, accurate and relevant information [8, 9]. 
+To improve upon these issues, especially when facing complex knowledge intensive tasks that require deep and responsible reasoning, the incorporation of Knowledge Graphs (KGs) into the reasoning process of LLMs has shown to be a very promising approach [7]. KGs offer an extensive source of rich, factual knowledge, that can be leveraged as a reliable external knowledge base for accessible, accurate and relevant information, thus improving the capabilities of LLMs significantly [8, 9]. 
+
+current state of the art:
+LightPROF:
+- retrieving information from KGs and incroporating the results into LLM input prompts. 
+- several remaining challenges: KG content often represented as textual content, fails to convey logical relationships of the graph structure, which are crucial for reasoning
+- in previous work presented as multidimensional lists or in natural language form, making expression of complex relationships and hierarchical structures difficult
+- retrieval and reasoning on KG demand a high number of LLLM calls + substantial reasoning power. Previous work used iterative approaches starting from the entity and obtaining information step by step. This increased the number of LLM calls, sacrificing reasoning efficiency and feasibility. 
+- Because the textual content is so vast, a large context window is required, meaning a powerful LLM is needed to ensure that no information is missed.
+- natural language form exposes risk of redundant content
+Paths over Graph:
+- 
