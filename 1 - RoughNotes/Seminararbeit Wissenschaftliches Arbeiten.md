@@ -53,6 +53,10 @@ Two recent methods, that try to adress these challenges, are LightPROF and Paths
 
 Similar to LightPROF, PoG is a framework enhancing LLM reasoning by integrating structured knowledge reasoning paths from Knowledge Graphs rather than relying on isolated facts or disjointed triples. To effectively address complex multi-hop and multi-entity questions however, PoG employs a dynamic three-phase path exploration strategy guided by the LLM's own planning indicators. This process involves constructing a relevant question subgraph and exploring paths that sequentially connect topic entities, while also supplementing this data with LLM-generated insights where explicit graph connections may be missing. Crucially, the framework implements a robust pruning mechanism that filters these candidates using graph structural analysis and semantic similarity to remove irrelevant noise. By prompting the LLM to generate answers based on these finalized reasoning chains, PoG ensures that the resulting outputs are not only accurate but also fully interpretable and grounded in verifiable knowledge[5].
 
+Related Work:
+Prompt Engineering on LLMs
+
+KG-based LLM Reasoning
 
 current state of the art:
 LightPROF:
