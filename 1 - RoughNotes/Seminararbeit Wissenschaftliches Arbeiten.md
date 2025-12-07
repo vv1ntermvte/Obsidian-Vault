@@ -58,6 +58,13 @@ Prompt Engineering on LLMs
 
 KG-based LLM Reasoning
 
+Preliminaries:
+Knowledge Graph
+
+Comparative Discussion:
+Comparing the two aforementioned frameworks, one can notice that the authors of both in part identified the same challenges, regarding the integration of KGs into LLMs, and utilized similar measurements to deal with them. Accordingly, LightPROF and PoG both recognize the problem of previous frameworks usually exploring the different topic entities independent from one another, and counteract this, by ... . Similarly, both acknowledge that previous works often times translated KGs into a textual format, that wasn't properly conceivable in its entirety by the LLM. However, LightPROF and PoG engage this difficulty in a fundamentally different manner. LightPROFs approach is to convert the semantic and structural information from the knowledge graph from a textual format into the embedding space of the LLM, making it as directly interpretable as possible and greatly reducing the share of redundant information. This also has the benefit of reducing the token count drastically, by up to 98%, leading to LightPROF excelling in efficiency. This in addition to the fact, that in the LightPROF model only the so called knowledge-adapter needs to be trained, in consequence means, that this framework has a tremendous benefit for small-scale LLMs and resource-constrained environments, where efficiency and a low operating cost are required. For the same reason however, LightPROF depends on open-source models that allow acess to the embedding space, excluding closed-source models in advance. 
+PoG follows an entirely different approach, effectively keeping the plain-text format and only applying smart prompt-engineering, to convert the retrieved knowledge into a format, that preserves the structural and semantic information of the KG. To achieve this, PoG makes use of
+
 current state of the art:
 LightPROF:
 - retrieving information from KGs and incroporating the results into LLM input prompts. 
