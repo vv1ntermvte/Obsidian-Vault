@@ -1,5 +1,4 @@
-Title: Understanding Knowledge Graph Embeddings:
-Methods and Applications
+Title: Diffusion-Based Fact Embeddings vs. Canonical Rule Models for Knowledge Graph Completion
 
 Summary:
 
