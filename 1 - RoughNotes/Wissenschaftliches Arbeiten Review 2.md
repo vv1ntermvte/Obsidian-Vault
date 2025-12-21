@@ -10,12 +10,14 @@ Wird der/die Leser/in etwas von dem Artikel lernen?
 Ist die Literatur im Artikel referenziert?
 Plagiat!
 
-At large, the paper certainly provides an educational benefit to the reader. The completeness of knowledge graph is an important goal for many subsequent applications, so the overall theme is by all means relevant. The paper outlines the different previous approaches very well and makes it clear to the reader that the benefits of \textit{FDM} are outstanding performance in predicting links, while coming at the cost of high computational resources and not being humanly comprehensible, and that \textit{Canonical Rule Models}, on the other hand, is much less computationally demanding and provides explanations for every prediction made but doesn't hold up with \textit{FDM} in complex scenarios. This takeaway makes it clear, why the usage of both approaches can be justified in different cases. The literature used to arrive at this conclusion, overall seems to be of great quality, an was, to a great share, rather recently published. Resources consistently stem from renowned conferences that only publish peer reviewed work and are cited frequently throughout the paper. The citations themselves are styled uniformly, however they lack a hyperlink to the source, that would have been nice for an easier and faster access.
+At large, the paper certainly provides an educational benefit to the reader. The completeness of knowledge graph is an important goal for many subsequent applications, so the overall theme is by all means relevant. The paper outlines the different previous approaches very well and makes it clear to the reader that the benefits of \textit{FDM} are outstanding performance in predicting links, while coming at the cost of high computational resources and not being humanly comprehensible, and that \textit{Canonical Rule Models}, on the other hand, is much less computationally demanding and provides explanations for every prediction made but doesn't hold up with \textit{FDM} in complex scenarios. This takeaway makes it clear, why the usage of both approaches can be justified in different cases. The literature used to arrive at this conclusion, overall seems to be of great quality. Resources consistently stem from renowned conferences that only publish peer reviewed work and are, to a great share, rather recently published. The citations themselves are styled uniformly, however they lack a hyperlink to the source, that would have been nice for an easier and faster access. The paper doesn't seem to contain any plagiarism as it has been cited frequently throughout and arguments brought up in referenced works are delivered in a unique manner, apart from mathematical formulas and the like, where being identical is strictly necessary. 
 
 Structure:
 Beschreibt der Abstract den Artikel?
 Sind die Sektionen in logischer Folge?
 Gibt es zu viele oder zu wenige Details?
+
+Overall, the paper is well structured, with all sections appearing in a logical order. Basic concepts needed to fathom the papers content to its extent are presented first. Then previous approaches to knowledge graph completion and their problems are laid out in more detail, after which the two main topics of the paper, \textit{FDM} and \textit{Canonical Rule Models} are examined and subsequently compared. One thing I noticed was, that in chapter 1.3 Scope of this Paper, it is stated, that the authors of \textit{Canoncial Rule Models} argue, that the main problem of rule-based systems are not the rules themselves, but the way they are combined. This doesn't seem entirely coherent at this point in the paper, as during the introduction of symbolic rule-based approaches within chapter 1.2, no downsides of this method are mentioned at all, even though they are brought up later in the chapter 3.1.1 anyways. The overall ordering however, is great. In terms of details, all parts of the paper seem to receive comprehensive coverage, which in turn leads to a well balanced work, overall. What could be improved upon is the abstract however. While it is concise and condenses the most important facts of the paper into a short format, it currently misses out on the comparison of the two approaches presented, and the conclusion that is drawn from these insights.  
 
 Presentation: 
 Ist der Artikel gut und klar geschrieben?
@@ -23,5 +25,9 @@ Wie ist das Niveau des Artikels?
 Sind Grammatik und Syntax in Ordnung?
 Sind die Abbildungen und Tabellen relevant?
 Gibt es zu viele typographische Fehler?
+
+Presentationwise, the whole paper was clearly articulated and easy to fathom, while being written on a high linguistic level. I couldn't find any syntactical errors or errors regarding the grammar either. Mathematic formuals are presented nicely, 
+
+usually formulas with citation next to them
 
 Feedback:
