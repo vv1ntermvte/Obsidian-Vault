@@ -4,3 +4,4 @@ Japanisch lernen
 Einen Kampfsport anfangen
 Politikwissenschaften studieren
 Nach Vietnam reisen
+Regelmäßig Fitinn
