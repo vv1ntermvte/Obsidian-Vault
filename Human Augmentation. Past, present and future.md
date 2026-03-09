@@ -19,4 +19,26 @@ Augmented senses: Methoden und Technologien die entweder sensorische Beeinträch
 
 Augmented action: Zu den ersten Entwicklungen auf diesem Gebiet zählt die Augmentierung von Bewegungen, beispielsweise mittels Prothesen für Gliedmaßen, welche die auf Grund einer Amputation verlorengegangenen Bewegungsabläufe zumindest teilweise wieder ermöglichen kann. Dank digitaler technologischer Entwicklungen können die menschlichen Fähigkeiten aber auch hier mittlerweile deutlich überschritten werden. Beispielsweise sind gelähmte Menschen in der Lage, mittels Exoskeletten wieder zu laufen. Exoskelette finden auch hilfreiche Anwendung in Bereichen, wo eine Vollautomatisierung aufgrund der Notwendigkeit für menschliche Intelligenz noch nicht möglich ist. Exoskelette können auch für die Remote-Steuerung von Robotern in Szenarien verwendet werde, in denen aufgrund der lokalen Gegebenheiten ein menschlicher Aufenthalt nicht sicher wäre (z.B. Tiefsee oder Weltraum). In Kombination mit der Erhebung Kognitiver Daten können sogar Konzepte wie Neuroprothesen verwirklicht werden, beispielsweise die Kontrolle prothetischer Finger über ein brain-machine interface. 
 
-Augmented cognition: Verknüpfung von Benutzer und Computer über eine (neuro-)physiologische Datenerfassung des Kognitiven Zustands des Benutzers. Die so gewonnenen Informationen werden genutzt, um den Maschineninput den situativen Notwendigkeiten anzupassen. Ziel ist es, die kognitiven Fähigkeiten des Nutzers so zu erweitern, dass Biases und Limitationen in der menschlichen Kognition und Informationsverarbeitung umgangen und überkommen werden. Darunter fallen zum Beispiel die erhöhte Konzentration, Gedächtniskraft, Aufmerksamkeit oder verbesserte Wissensspeicherung.
+Augmented cognition: Verknüpfung von Benutzer und Computer über eine (neuro-)physiologische Datenerfassung des Kognitiven Zustands des Benutzers. Die so gewonnenen Informationen werden genutzt, um den Maschineninput den situativen Notwendigkeiten anzupassen. Ziel ist es, die kognitiven Fähigkeiten des Nutzers so zu erweitern, dass Biases und Limitationen in der menschlichen Kognition und Informationsverarbeitung umgangen und überkommen werden. Darunter fallen zum Beispiel die erhöhte Konzentration, Gedächtniskraft, Aufmerksamkeit oder verbesserte Wissensspeicherung. Viele bisherige Methoden zur Erfassung des kognitiven Zustands laufen jeweils nur über einen einzelnen sensorische Modus (Augenbewegungen, Schweißproduktion, Gehirnaktivitäten), was für einzelne Anwendungsfälle ausreichend sein mag, aber unzureichend ist, um die Komplexität der menschlichen Kognition in ihrer Gesamtheit abzubilden.
+
+### Ethische und gesellschaftliche Aspekte
+
+Verschiedene Anwendungsbereiche:
+1) Therapeutischer Einsatz und Wiederherstellung von Fähigkeiten
+2) Präventiver Einsatz bei bekannter (genetischer) Prädisposition
+3) Präventiver Einsatz ohne bekannte (genetische) Prädisposition
+4) Verbesserung über menschenmögliche Fähigkeiten hinaus
+5) Verbesserung weit über menschenmögliche Fähigkeiten hinaus
+
+Die Anwendungsbereiche sind entsprechend ihrer Zustimmungswerte in der Bevölkerung sortiert. Wo Therapeutische Zwecke und die Wiederherstellung von Fähigkeiten noch sehr gute Zustimmungswerte erhalten, sinken diese im Verlauf sukzessive; Verbesserungen über die menschenmöglich Fähigkeiten heraus werden nur noch von einer Minderheit befürwortet. Gleichzeitig steigen auch die ethischen Sorgen und gesellschaftlichen Auswirkungen, die bei der Entwicklung solcher Technologien stetig bedacht werden müssen. 
+
+Indiv
+
+Privatsphäre:
+
+Soziale Manipulation: 
+
+Autonomie und Nebeneffekte:
+
+Accessibility: 
+
