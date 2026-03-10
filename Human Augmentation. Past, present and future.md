@@ -1,5 +1,7 @@
 Source: [[Human augmentation. Past, present and future.pdf]]
 
+Vorlesung: [[Human Augmentation 10.03.2026]]
+
 Seit der Entwicklung des GUI werden Technologien im Feld der human-technology Interaction hauptsächlich als externes Werkzeug betrachtet, dass der Mensch sich zu Nutzen macht. Dementsprechend gilt auch für aktuelle Fortschritte auf dem Gebiet,  die auf diesem ursprünglichen Ansatz aufbauen und ihn weiterentwickeln, dass eine klare Trennlinie zwischen System und Benutzer besteht. Wo sich früher der Mensch an die Technologie anpassen musste, liegt heute der Fokus darauf, die Technologie bestmöglich an den Menschen anzupassen, um eine reibungslose und effiziente Interaktion zu ermöglichen. Das geschieht mittels Steuerungsmöglichkeiten über verschiedenste sensorische Kanäle, wie Sprache, Gestik, Blickkontakt oder Elektrophysiologische Signale und deren Kombination; einem Paradigma, dessen Ziel ist, die Interaktion zwischen Mensch und Technologie so natürlich wie möglich zu gestalten. Human Augmentation ist eine Erweiterung dieses Paradigmas mit der menschlichen Komponente im Mittelpunkt.
 ### Begriffserklärungen
 
