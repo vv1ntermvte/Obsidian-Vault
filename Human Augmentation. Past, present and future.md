@@ -43,5 +43,4 @@ Individuelle Aspekte:
 Gesellschaftliche Aspekte:
 - Sicherheit und Balance
 - Unvorhersehbare Zukunft
-- 
 

@@ -24,6 +24,8 @@ MC-Fragen:
 	- b) GUI
 	- c) Virtual Reality
 	- d) Augmented Interaction
+	- Richtige Antwort: c)
+	- Erklärung: In der Virtual Reality finden ausschließlich Interaktionen zwischen Mensch und Maschine statt
 - 2. Ab welchem Punkt wird aus "supplementing" human ability "exceeding" human ability?
 	- a) Sobald 
 	- b)
