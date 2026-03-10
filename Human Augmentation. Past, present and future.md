@@ -32,13 +32,14 @@ Verschiedene Anwendungsbereiche:
 
 Die Anwendungsbereiche sind entsprechend ihrer Zustimmungswerte in der Bevölkerung sortiert. Wo Therapeutische Zwecke und die Wiederherstellung von Fähigkeiten noch sehr gute Zustimmungswerte erhalten, sinken diese im Verlauf sukzessive; Verbesserungen über die menschenmöglich Fähigkeiten heraus werden nur noch von einer Minderheit befürwortet. Gleichzeitig steigen auch die ethischen Sorgen und gesellschaftlichen Auswirkungen, die bei der Entwicklung solcher Technologien stetig bedacht werden müssen. 
 
-Indiv
+Individuelle Aspekte:
+- Privatsphäre
+- Soziale Manipulation 
+- Autonomie und Nebeneffekte
+- Accessibility
 
-Privatsphäre:
-
-Soziale Manipulation: 
-
-Autonomie und Nebeneffekte:
-
-Accessibility: 
+Gesellschaftliche Aspekte:
+- Sicherheit und Balance
+- Unvorhersehbare Zukunft
+- 
 
