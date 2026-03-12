@@ -11,12 +11,14 @@ MC-Fragen:
 	- c) Beobachtung hatte keine Auswirkung auf die Produktivität von Arbeitern
 	- d) Die Hawthorne Experimente befassten sich nicht mit der Produktivität von Arbeitern unter Beobachtung 
 	 Richtige Antwort? b)
-- 3. Welche der folgenden Bereiche zählte zu Norbert Wieners Forschungsschwerpunkten?
-	- a) Verbesserung der Arbeiterproduktivität durch Anal
-	- b)
-	- c)
-	- d)
-
+     Erklärung: Die Hawthorne Experimente legten nahe, dass soziale Faktoren in der Arbeitsumgebung eine Rolle spielen, da ArbeiterInnen produktiver waren, wenn Interesse an ihrer Arbeit demonstriert wurde.
+- 3. Welche der folgenden zählte zu Norbert Wieners Forschungsschwerpunkten?
+	- a) Tests zu menschlichen Toleranzgrenzen
+	- b) Rationalisierung von Fertigungsprozessen durch Fließbandproduktion
+	- c) Beschreibung der Struktur, Einschränkungen und Möglichkeiten von Regelungssystemen
+	- d) Verbesserung der Arbeiterproduktivität durch Analyse von Workflows
+	 Richtige Antwort: c)
+     Erklärung: Norbert Wiener ist der Begründer der Kybernetik, einem interdisziplinären Ansatz zur Erforschung von Regelungssystemen.
 
 ### HA: Past, present and future
 MC-Fragen: 
