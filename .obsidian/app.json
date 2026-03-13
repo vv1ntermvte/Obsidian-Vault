@@ -2,9 +2,10 @@
   "attachmentFolderPath": "Untitled",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 100
   }
 }
