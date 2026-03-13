@@ -1,3 +1,5 @@
+Tags: [[Human Augmentation]]
+
 Source: [[Human augmentation. Past, present and future.pdf]]
 
 Vorlesung: [[Human Augmentation 10.03.2026]]
