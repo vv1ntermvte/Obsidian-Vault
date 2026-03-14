@@ -1,0 +1,27 @@
+Tags: [[Human Augmentation]] 
+
+Neuromancer ist das erste Buch der dystopischen Science-Fiction Romantrilogie "Sprawl", in der Human Augmentation eine allgegenwärtige Rolle spielt. Da es zum ersten Band die meisten Visualisierungen gibt, habe ich mich entschieden, die Augmentationen der Trilogie insbesondere anhand der beiden Protagonisten dieses Buchs zu beschreiben. Da wäre einmal Case, ein sogenannter "Konsolen-Cowboy", der kognitive Augmentation nutzt, um den sogenannten Cyberspace zu navigieren. Dieser erfüllt eine Rolle ähnlich der unseres Internets, ist jedoch nicht nur ein rein immaterielles Datennetzwerk, sondern hat gleichzeitig eine psychische Manifestation, vom Autor als "consensual hallucination" beschrieben, die mit dem Bewusstsein betreten werden kann (siehe Abb. 1). 
+![[Pasted image 20260313162853.png|510]]
+*Abb.1. Case navigiert mittels Cyberdeck durch den Cyberspace, Quelle: Neuromancer Graphic Novel Vol. 1*
+
+Als Schnittstelle verwendet Case dafür das Cyberdeck _Ono-Sendai Cyberspace VII_ des Konzerns Hosaka. Es besteht aus einer Konsole zur Einspeisung von Programmen, sogenannten Konstrukten, und einem Kopfteil mit "Dermatroden" (verschiedene Visualisierungen siehe Abb. 2-4). Diese scannen Gehirnaktivitäten und projizieren Cases Bewusstsein in den Cyberspace, während sein physischer Körper passiv in der Realität zurückbleibt. Diese externe Technologie entwickelt sich in der Fortsetzung _Count Zero_ maßgeblich weiter: Sogenannte Bio-Chips, künstlich gezüchtete organische Mikrochips, werden invasiv in die Großhirnrinde integriert. Sie ermöglichen die Interaktion mit dem Cyberspace gänzlich ohne externe Hilfsmittel, wodurch die Grenzen zwischen materieller Realität und digitalem Raum weiter verblassen.
+![[Pasted image 20260313164430.png|547]]
+*Abb.2. Visualisierung des Ono-Sendai Cyberdecks, Quelle: Konzeptzeichnung von Nathan J. Anderson*
+![[Pasted image 20260313164516.png|547]]
+*Abb.3. Visualisierung des Kopfteils des Ono-Sendai Cyberdecks, Quelle: Konzeptzeichnung von Jose Ramirez*
+![[Pasted image 20260313164631.png|547]]
+*Abb.4. Visualisierung des Konsolenteils des Ono-Sendai Cyberdecks, Quelle: Konzeptzeichnung von Jose Ramirez*
+
+Einen physischen Kontrast zu Case bildet die Söldnerin Molly, deren invasives Human Enhancement permanent und primär für militärische Zwecke konzipiert ist (Abb. 5). Ihre sensorische Augmentation besteht aus verspiegelten Linsen, die fest in ihre Augenhöhlen implantiert wurden. Sie ermöglichen Infrarot- sowie Nachtsicht und blenden Daten über ein Head-up-Display direkt über den Sehnerv ein. Zur physischen Erweiterung im Kampf verfügt sie zudem über Klingen unter ihren Fingernägeln, die nahtlos in den Körper ein- und bei Bedarf automatisch wieder ausgefahren werden können.
+![[Pasted image 20260313172205.png|525]]
+*Abb.5. Mollys Enhancements - ausfahrbare Klingen und verspiegelte Linsen, Quelle: Neuromancer Graphic Novel Vol. 1*
+
+Case und Molly verdeutlichen die zentrale Rolle von Augmentationen in einer Welt, die von multinationalen Megakonzernen (sogenannten Zaibatsus) kontrolliert wird. Diese Konzerne haben praktisch die Funktion von Nationalstaaten übernommen und ein anarchokapitalistisches System etabliert, in dem öffentliches Recht immer mehr in den Hintergrund rückt und durch ein Recht des Stärkeren ersetzt wird, dass besonders den Konzernen zugute kommt, die für die Entwicklung und Distribution von Augmentationen verantwortlich sind und ein Monopol auf diese besitzen (Abb. 6).
+![[Pasted image 20260313182518.png|542]]
+*Abb.6. Cyberspace. Symbolbild für die Dominanz der Konzerne. Zentral zu sehen: die "Pyramide" des Konzerns IBM, Quelle: Neuromancer Graphic Novel Vol. 1*
+
+Dies führt zu tiefgreifenden sozialen und ethischen Implikationen, insbesondere einer extremen Zwei-Klassen-Gesellschaft. Besonders medizinische und leistungssteigernde Technologien bleiben einer winzigen, wohlhabenden Elite vorbehalten. Milliardäre entziehen sich dem körperlichen Verfall durch den ständigen Austausch von Organen oder lagern ihr Bewusstsein gänzlich in den Cyberspace aus, um de facto ewiges Leben zu erlangen. Dem verarmten Großteil der Bevölkerung, deren Lebensrealität von Kriminalität, Gewalt und Drogenkonsum geprägten ist (siehe Abb. 7), bleibt dieser Zugang verwehrt. Für sie sind Augmentationen meist billige Konsumgüter, die der intellektuellen Abstumpfung oder dem Eskapismus dienen, so etwa die populären "SimStims", mit denen fremde Sinneseindrücke konsumiert werden, um dem düsteren Alltag zu entfliehen.
+![[Pasted image 20260313190731.png|492]]
+*Abb.7. Molly in den Straßen von Chiba, beispielhaft für die dystopische Realität abseits der prachtvollen Konzerngebäude, Quelle: Neuromancer Graphic Novel Vol. 1*
+
+Die zentrale ethische Problematik in Neuromancer ist folglich die drastische Diskrepanz zwischen dem vorhandenen technologischen Potenzial und der Tatsache, dass dieses nicht für gesellschaftlichen Mehrwert eingesetzt wird. Augmentation dient nicht dem Allgemeinwohl, sondern ordnet sich bedingungslos den Kapitalinteressen der Konzerne unter. Die wichtigste Erkenntnis, die Neuromancer meiner Meinung nach nahelegt, ist daher, dass bei der Entwicklung neuer Technologien immer der Nutzen für den Menschen und die Gesellschaft als Ganzes an erster Stelle stehen sollte.
