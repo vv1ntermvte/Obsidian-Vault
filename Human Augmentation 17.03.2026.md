@@ -1,23 +1,23 @@
 ### Modes of the Human and its implications for Augmentation Technologies
-MC-Fragen:
-- 1. 
-	- a) Richtig
-	- b) Falsch
-	- c)
-	- d)
-	 Richtige Antworten: b)
-	 Erklärung: 
-- 2. 
-	- a) Die Produktivität von Arbeitern reduzierte sich unter Beobachtung
-	- b) Die Produktivität von Arbeitern steigerte sich unter Beobachtung
-	- c) Beobachtung hatte keine Auswirkung auf die Produktivität von Arbeitern
-	- d) Die Hawthorne Experimente befassten sich nicht mit der Produktivität von Arbeitern unter Beobachtung 
-	 Richtige Antwort? b)
-     Erklärung: 
-- 3. 
-	- a) Tests zu menschlichen Toleranzgrenzen
-	- b) Rationalisierung von Fertigungsprozessen durch Fließbandproduktion
-	- c) Beschreibung der Struktur, Einschränkungen und Möglichkeiten von Regelungssystemen
-	- d) Verbesserung der Arbeiterproduktivität durch Analyse von Workflows
+MC-Fragen: 
+- 1. Welcher menschliche Modus bezieht sich auf die zwischenmenschliche Interaktion?
+	- a) Physical
+	- b) Emotional
+	- c) Cognitive
+	- d) Sensory
+	 Richtige Antworten: keiner der genannten
+	 Erklärung: Der entsprechende Modus  wäre 'Social'.
+- 2. Welche der folgenden Technologien würden unter den 'Cognitive' Modus fallen?
+	- a) Brain-Computer Interfaces
+	- b) Social robots
+	- c) Bionic Eyes
+	- d) AI-Assistants 
+	 Richtige Antwort? a), d)
+     Erklärung: Brain-Computer Interfaces und AI-Assistenten sind Technologien, die der Augmentation der Kognition des Benutzers dienen.
+- 3. Welche Modus-übergreifenden Aspekte existieren in der HCI, die bei der Erforschung neuer Technologien bedacht werden sollten? 
+	- a) regulatorische und rechtliche Hürden
+	- b) ethische Bedenken
+	- c) 
+	- d) ökonomische Auswirkungen
 	 Richtige Antwort: c)
      Erklärung: 
