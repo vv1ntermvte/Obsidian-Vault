@@ -17,7 +17,7 @@ MC-Fragen:
 - 3. Welche Modus-übergreifenden Aspekte existieren in der HCI, die bei der Erforschung neuer Technologien bedacht werden sollten? 
 	- a) regulatorische und rechtliche Hürden
 	- b) ethische Bedenken
-	- c) 
-	- d) ökonomische Auswirkungen
-	 Richtige Antwort: c)
-     Erklärung: 
+	- c) ökonomischer Erfolg
+	- d) soziale Auswirkungen
+	 Richtige Antwort: a), b), d)
+     Erklärung: ökonomischer Erfolg war kein in der Vorlesung genannter Aspekt.
