@@ -1,4 +1,4 @@
-Tags: [[Human Augmentation]]
+Tags: [[3 - Tags/Human Augmentation]]
 
 Source: [[Human augmentation. Past, present and future.pdf]]
 

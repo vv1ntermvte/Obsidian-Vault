@@ -1,4 +1,4 @@
-Tags: [[Human Augmentation]] 
+Tags: [[3 - Tags/Human Augmentation]] 
 
 Neuromancer ist das erste Buch der dystopischen Science-Fiction Romantrilogie "Sprawl", in der Human Augmentation eine allgegenwärtige Rolle spielt. Da es zum ersten Band die meisten Visualisierungen gibt, habe ich mich entschieden, die Augmentationen der Trilogie insbesondere anhand der beiden Protagonisten dieses Buchs zu beschreiben. Da wäre einmal Case, ein sogenannter "Konsolen-Cowboy", der kognitive Augmentation nutzt, um den sogenannten Cyberspace zu navigieren. Dieser erfüllt eine Rolle ähnlich der unseres Internets, ist jedoch nicht nur ein rein immaterielles Datennetzwerk, sondern hat gleichzeitig eine psychische Manifestation, vom Autor als "consensual hallucination" beschrieben, die mit dem Bewusstsein betreten werden kann (siehe Abb. 1). 
 ![[Pasted image 20260313162853.png|510]]

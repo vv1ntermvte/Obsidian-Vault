@@ -2,7 +2,7 @@
 
 Status: #finished
 
-Tags: [[Human Augmentation]] [[Cyberpunk]] [[Romane]]
+Tags: [[3 - Tags/Human Augmentation]] [[Cyberpunk]] [[Romane]]
 
 Neuromancer ist der erste Band der "Sprawl-Trilogie" und handelt von einem dystopischen Cyberpunk Szenario. Da über den Verlauf der drei Bücher eine Vielzahl verschiedener Augmentierungs- und Enhancement-Technologien präsentiert werden und es speziell zum ersten Band das meiste visuelle Material gibt, werde ich mich besonders auf die Augmentierungen der beiden Protagonisten des ersten Buchs, des Konsolen-Cowboys und Hackers Case und der Söldnerin Molly, fokussieren. 
 Konsolen-Cowboys werden in der Realität von Neuromancer Menschen genannt, die sich auf die Navigation des Cyberspace (bzw. der Matrix, die beiden Begriffe werden austauschbar verwendet) spezialisiert haben. Der Cyberspace erfüllt in etwa die gleiche Rolle wie unser Internet, er ist ein immaterieller Ort, ein Netzwerk das den Austausch von Daten ermöglicht. Der Cyberspace hat aber den bedeutenden Unterschied, dass er eine physische Form besitzt, die es Menschen ermöglicht ihn mit ihrem Bewusstsein zu betreten (siehe Abb.1).
