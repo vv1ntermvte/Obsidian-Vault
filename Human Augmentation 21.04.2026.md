@@ -14,10 +14,9 @@ MC-Fragen:
 	- d) NHANES
 	 Richtige Antwort: b)
      Erklärung: ANSUR und NHANES beziehen sich nur auf den US-Raum, ORADEU ist ausgedacht
-- 3. ?
-	- a) 
-	- b)
-	- c)
-	- d)
-	 Richtige Antwort: c)
-     Erklärung: a.
+- 3. Welches Requirement gilt im Workspace Design für die größten Nutzer?
+	- a) Reach requirement mit 95% Perzentil
+	- b) Reach requirement mit 5% Perzentil
+	- c) Clearance requirement mit 95% Perzentil  
+	- d) Clearance requirement mit 5% Perzentil
+	 Richtig e Antwort: c)
