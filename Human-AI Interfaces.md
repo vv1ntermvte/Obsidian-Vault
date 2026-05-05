@@ -1,4 +1,0 @@
-Projektideen:
-1. AI-gestützter Ernährungsplaner
-	Scanne Kühlschrank und Küche nach Zutaten und erhalte basierend auf deinen Vitalwerten und Fitnesspräferenzen Kochempfehlungen
-2. AI Audioguide. Gerät mit Scan-Funktion um Kunstwerke zu analysieren. Im Unterschied zu einem normalen Audioguide funktioniert dieser universell in allen Museen und anstatt einen vordefinierten Text abzuspielen kann man mit der AI über die Kunstwerke und deren Entstehung diskutieren. Außerdem lassen sich eigene körperliche Einschränkungen (z.b. Blindheit) angeben, und der Audioguide passt seine Sprache an, um Objekte gemäß der veränderten Situation angemessen zu beschreiben. 
