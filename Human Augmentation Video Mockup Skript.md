@@ -1,0 +1,6 @@
+Wilkommen bei Neurostudy. Dank leistungsfähiger Neurofeedback Wearables sind wir in der Lage, unsere AbsolventInnen durch Steigerung der Produktivität und Leistungsfähigkeit optimal für den Arbeitsmarkt vorzubereiten. Unsere Neurofeedbacksysteme verarbeiten die Gehirnströme der Subjekte in Echtzeit. Dies ermöglicht den Aufbau lückenloser kognitiver Profile, sodass das Lehrpersonal neuronale Spitzenleistungen präzise evaluieren und entsprechend belohnen kann.
+
+Dank der kontinuierlichen Überwachung wird das Lehrpersonal bei Fokusabweichung eines Subjekts unmittelbar in Kenntnis gesetzt, was eine sofortige Intervention ermöglicht und einem potentiellen Produktivitätsabfall bestmöglich entgegenwirkt. Diese Methode gewährleistet die maximale Verwertbarkeit unserer AbsolventInnen und eine Leistungssteigerung um den Faktor 10 im Vergleich zu herkömmlichen öffentlichen Bildungseinrichtungen.
+
+Wenn auch Sie das kognitive Potential ihre Kindes sichern wollen vereinbaren sie noch heute einen Termin über unser Service Portal. Bitte beachten Sie, dass ein Nachweis über die neurobiologische Kompatibilität des Kindes zwingende Voraussetzung für die Aufnahme in unser Programm ist. Das für die Ausbildung aufzubringende Investitionsvolumen wird nach Auswertung des neurologischen Erst-Screening individuell berechnet. 
+
