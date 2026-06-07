@@ -1,0 +1,1 @@
+Deloittes Framework ist a Method of dividing the Trustworthiness of AI into different dimensions. These enable companies to better identify and prevent risks related to AI ethics
