@@ -1,1 +1,1 @@
-Deloittes Framework ist a Method of dividing the Trustworthiness of AI into different dimensions. These enable companies to better identify and prevent risks related to AI ethics
+Another Factor for cultural and societal impact of AI is the social cost. Generative ai models rely on large amounts of human resources, so called hidden labor, that isn't obvious from an outsiders perspective and often exploitative in nature.
