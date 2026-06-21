@@ -1,1 +1,1 @@
-Another Factor for cultural and societal impact of AI is the social cost. Generative ai models rely on large amounts of human resources, so called hidden labor, that isn't obvious from an outsiders perspective and often exploitative in nature.
+The reliability of a classifier algorithm can be measured by utilizing a confusion matrix. Here the prediction of a model is compared with the reality, resulting in one of 4 different outcomes
