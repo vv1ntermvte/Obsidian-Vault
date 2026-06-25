@@ -1,1 +1,3 @@
-The reliability of a classifier algorithm can be measured by utilizing a confusion matrix. Here the prediction of a model is compared with the reality, resulting in one of 4 different outcomes
+Clinspire: Tab navigation skips over dropdown selections
+
+checks for deletion in crf editor (maybe)
