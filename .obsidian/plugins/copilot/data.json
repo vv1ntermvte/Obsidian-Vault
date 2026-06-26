@@ -106,8 +106,8 @@
       "isBuiltIn": true,
       "projectEnabled": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -117,10 +117,11 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
-      "apiKey": ""
+      "apiKey": "",
+      "enableCors": false
     },
     {
       "name": "gemini-3.5-flash",
@@ -129,8 +130,8 @@
       "isBuiltIn": true,
       "projectEnabled": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -162,8 +163,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -257,8 +258,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -268,8 +269,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -279,8 +280,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -329,6 +330,12 @@
       "capabilities": [
         "reasoning"
       ],
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-pro-latest",
+      "provider": "google",
+      "enabled": true,
       "apiKey": ""
     }
   ],
