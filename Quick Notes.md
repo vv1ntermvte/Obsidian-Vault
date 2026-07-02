@@ -6,15 +6,13 @@ Tool tip for row/column view should also appear for the currently selected view
 
 Editing Participant causes error (weird)
 
-Site and Role ItemComboBox in Add User have static width
-
 ~~initial height of activate / deactivate user is too big~~
 
 Height of activate / deactivate user cannot be changed properly
 
 CRF editor > preview > Visits/CRFs/Blocks drop shadow is not correctly displayed
 
-
+CRF Editor '5. Blocks' and '8. Blocks' have the same name. What altering names would better highlight their differences?
 
 
 
