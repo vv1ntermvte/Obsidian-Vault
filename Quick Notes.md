@@ -8,6 +8,15 @@ Editing Participant causes error (weird)
 
 Site and Role ItemComboBox in Add User have static width
 
+~~initial height of activate / deactivate user is too big~~
+
+Height of activate / deactivate user cannot be changed properly
+
+CRF editor > preview > Visits/CRFs/Blocks drop shadow is not correctly displayed
+
+
+
+
 
 
 
