@@ -1,10 +1,14 @@
-Clinspire: Tab navigation skips over dropdown selections
+CSNG-87 > which columns should increase in width when data grid width is increased
 
-checks for deletion in crf editor (maybe)
+Columns in CRF editor > 4. CRFs > data grid vanish when reducing grid width beyond a certain point while in column view
 
-Ticket for crf editor saving requires tabbing out of selected field else error or just does not save but says changes were saved. 
+Tool tip for row/column view should also appear for the currently selected view
 
-Create developer diary for obsidian
+Editing Participant causes error (weird)
+
+Site and Role ItemComboBox in Add User have static width
+
+
 
 
 
