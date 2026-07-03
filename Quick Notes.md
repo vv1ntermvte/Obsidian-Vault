@@ -14,6 +14,8 @@ CRF editor > preview > Visits/CRFs/Blocks drop shadow is not correctly displayed
 
 CRF Editor '5. Blocks' and '8. Blocks' have the same name. What altering names would better highlight their differences?
 
+dynamic width of ItemComboBox must be set for all drop downs individually
+
 
 
 
