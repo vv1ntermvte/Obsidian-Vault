@@ -337,6 +337,18 @@
       "provider": "google",
       "enabled": true,
       "apiKey": ""
+    },
+    {
+      "name": "claude-opus-4-8",
+      "provider": "anthropic",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-sonnet-5",
+      "provider": "anthropic",
+      "enabled": true,
+      "apiKey": ""
     }
   ],
   "activeEmbeddingModels": [
