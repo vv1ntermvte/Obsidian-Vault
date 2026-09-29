@@ -1,1 +1,0 @@
-Some of the remaining challenges with detecting AI include the possibility of evasion through paraphrasing and that AI detectors can lead to False Positives, questioning their overall reliability.
