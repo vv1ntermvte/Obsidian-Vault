@@ -56,6 +56,4 @@ Mögliche Erklärungen:
 - Parteibindung > Ernennung passiert durch MinisterInnen jener Partei, für die sie in Kabinettsfunktion tätig waren
 - Persönliche Bindung > Ernennung passiert durch jene MinisterInnen, für die sie tätig waren
 
-Ergebnis: Parteibindung hat den größten Einfluss
-
- 
+Ergebnis: SektionsleiterInnen werden in steigendem Ausmaß Personen mit Kabinettserfahrung. Die Parteibindung hat dabei den größten Einfluss, das Ausmaß schwankt aber stark, je nach Ressort.
