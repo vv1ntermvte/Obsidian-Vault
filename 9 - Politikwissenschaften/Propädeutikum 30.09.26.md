@@ -7,4 +7,8 @@ Geschlechterkritische Politikwissenschaft erweitert den Begriff 'Politik' auf et
 ##### care and social reproduction:
 social reproduction ... all activities that recreate life, but also maintain a sustainable society, meaning education, health provision, etc. A broad umbrella term covering many topics, one of which is also care. 
 
+Wendy Brown - Liberalism Cannot Save Us Now
+15. Oktober 16:00 Hörsaal III NIG
+
+
  
