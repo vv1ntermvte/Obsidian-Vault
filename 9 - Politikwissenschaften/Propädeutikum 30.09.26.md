@@ -57,3 +57,17 @@ Mögliche Erklärungen:
 - Persönliche Bindung > Ernennung passiert durch jene MinisterInnen, für die sie tätig waren
 
 Ergebnis: SektionsleiterInnen werden in steigendem Ausmaß Personen mit Kabinettserfahrung. Die Parteibindung hat dabei den größten Einfluss, das Ausmaß schwankt aber stark, je nach Ressort.
+
+### Erfolgreich Studieren - aber wie?
+#### 3 Minute Paper
+Was habe ich schon gewusst:
+Einige Fakten zu den besonderheiten des politischen Systems: 
+ - Wählen ab 16
+ - Zweikammersystem
+ - Das viele Posten in der Verwaltung von Parteien besetzt werden - Postenschacherei
+ - Das Rechtspopulismus in Österreich schon sehr lange sehr stark vertreten war (im europäischen Vergleichj)
+
+Was war mir neu:
+- Konkrete Zahlen dazu wie Verwaltungsposten an beispielsweise Ministerkabinettsmitgleider vergeben werden und dass man sehr genau sehen kann, wie diese Vergabe mit den Regierungsparteien koreliert. 
+- Das die Behandlung von Österreich und der EU in die vergleichende Politikwissenschaft zählen und dort gesondert behandelt werden. 
+
