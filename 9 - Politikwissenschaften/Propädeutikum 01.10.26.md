@@ -23,3 +23,4 @@ Theoriebildung hat immer auch einen Durchsetzungsanspruch und wird nicht ohne ei
 Selbst der Begriff 'Politik' selbst hat in der Geschichte sehr unterschiedliche Definitionen gehabt (vgl. Platon, Machiavelli, Schmitt, Arendt) und somit gibt es auch heute nicht die EINE Definition. Man kann nur seine eigene Vorstellung des Begriffs mit existierenden Theorien vergleichen und die eigene Definition schlüssig verargumentieren. Wichtig ist die Erkenntnis über die Existenz verschiedener Definitionen und, der eigenen Theorie nicht absolute Deutungsmacht zu verleiht.
 
 Die Brauchbarkeit politischer Ideen hängt einerseits davon ab, wie relevant sie für das tagespolitische Geschehen sind, aber gleichzeitig, wie allgemein sie auf verschiedene Ereignisse angewendet werden können (nicht zu abstrakt und auch nicht zu spezifisch).
+
