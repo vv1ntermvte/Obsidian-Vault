@@ -18,6 +18,7 @@ Examples for interpretative methods:
 - Participant Observation
 - Discourse/narrative analysis
 
+Populist far-right in France: One factor of Marine Le Pens popularity is due to her presenting herself and being recognized as a maternal figure. This is also the case for example in Italy with Georgia Meloni. Is this however, a phenomenon unique to the populist far-right? What about e.g. Angela Merkel in Germany. Merkel however, while maybe being recognized as a maternal figure at times, did not present herself as such or gained her popularity from that image. 
 
-
+#### Forschungswerkstatt - Politics of Care as a Feminist Counter-Strategy
 
