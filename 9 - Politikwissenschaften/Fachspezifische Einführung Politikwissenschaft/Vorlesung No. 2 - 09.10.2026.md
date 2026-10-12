@@ -2,8 +2,9 @@
 ### Interpretative Methods
 
 Folien: 
-[[2. Interpretive methods – Dorit Geva.pdf]]
-[[Politics of care – Firoozeh Farvardin.pdf]]
+![[2. Interpretive methods – Dorit Geva.pdf]]
+
+![[Politics of care – Firoozeh Farvardin.pdf]]
 
 #### Thick and Thin descriptions
 Wink vs. blink as an example for the difference between thick and thin descriptions. A simple action as a blink can convey complex meanings. Understanding this meaning requires interpretation from the observer. 

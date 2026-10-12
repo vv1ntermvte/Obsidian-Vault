@@ -1,5 +1,5 @@
 Folien:
-[[1. Was ist Politik – Ulrich Brand.pdf]]
+![[1. Was ist Politik – Ulrich Brand.pdf]]
 
 #### Reflexion
 Reflexion zu Erwartungen an die Vorlesung:

@@ -1,6 +1,5 @@
 Folien:
-[[01_Methodologie_WiSe26_Steindl-Kopf.pdf]]
-[[01_Methodologie_WiSe26_Paul.pdf]]
+![[01_Methodologie_WiSe26_Paul.pdf]]
 
 Erkenntnistheorie: Wie findet die Produktion von Wissen statt, sehr allgemein und philosophisch
 Wissenschaftstheorie: Dieselbe Fragestellung aber innerhalb wissenschaftlicher Institutionen.
