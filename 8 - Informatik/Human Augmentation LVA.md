@@ -1,4 +1,4 @@
-Tags: [[Informatik]] [[3 - Tags/Human Augmentation]]
+Tags: [[Informatik]] [[Human Augmentation]]
 
 [[Human Augmentation. Past, present and future]]
 [[Neuromancer - Book Review]]
