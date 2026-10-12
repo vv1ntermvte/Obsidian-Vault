@@ -110,7 +110,7 @@
   "recordPDFInternalLinkHistory": true,
   "alwaysRecordHistory": true,
   "renderMarkdownInStickyNote": false,
-  "enablePDFEdit": true,
+  "enablePDFEdit": false,
   "author": "Luis Kolvenbach",
   "writeHighlightToFileOpacity": 0.2,
   "defaultWriteFileToggle": false,
