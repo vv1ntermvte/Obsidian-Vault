@@ -1,5 +1,7 @@
 {{date}} {{time}}
 
+Course: 
+
 Vortragende/r: 
 
 Folien: Link_to_PDF
