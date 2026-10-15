@@ -57,5 +57,14 @@ Statt A -> B (Wenn A, dann B), A -> B mit einer bestimmten Wahrscheinlichkeit. B
 
 #### Quantitativ vs. Qualitativ
 Quantitative Forschung: Hypothesen werden aufgestellt und mithilfe von systematischer Messung und Beobachtung überprüft. 
+Beispiele:
+- Standardisierte Befragungen
+- Experimente
+- quantitative Inhaltsanalyse
 
 Qualitative Forschung: Nicht gut geeignet um Hypothesen zu erklären aber gut zur Generierung. Wenig standardisiert, interpretierend. Betrachtung von Einzelfällen auf Grundlage welcher neue Hypothesen aufgestellt werden können. 
+Beispiele:
+- offene oder teilstrukturierte Interviews
+- Fokusgruppen
+- Einzelfallstudien
+
