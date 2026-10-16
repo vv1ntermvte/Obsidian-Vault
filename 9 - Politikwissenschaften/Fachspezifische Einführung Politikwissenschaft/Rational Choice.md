@@ -55,3 +55,17 @@ In diesem Modell konvergieren in Zweiparteiensystemen beide Parteien zur Mitte, 
 
 Das Modell stößt allerdings an mehreren Stellen an seine Grenzen, da auch wichtige Aspekte vernachlässigt werden. Auch in Zweiparteiensystemen können neue Parteien Eintreten. WählerInnen können sich zur Nichtwahl entscheiden, da sie ihre Interessen von keiner Partei in einem Ausmaß vertreten sehen, dass den Aufwand der Wahl rechtfertigen würde.
 
+### Unsicherheiten
+
+Wählen ist mit Unsicherheiten verbunden. Je weniger ein Akteur über die Umwelt weiß, desto höher die Unsicherheiten. In neuen Demokratien gibt es ein Informationsproblem und Koordinationsproblem (für was stehen Parteien und wie hoch sind ihre Chancen). Diese Dinge erfordern Lernen über mehrere Perioden hinweg.
+
+Beispiel Russland: Starker Unterschied im Wahlverhalten zwischen den Parlamentswahlen 1993 und 2007. 2007 hatten die WählerInnen (und Politiker lol) bereits mehr Erfahrung, was zu einer gefestigteren Wahlentscheidung und entsprechend einem eindeutigeren Ergebnis geführt hat.
+
+### Präferenzen feststellen
+
+Präferenzen sind im Vorhinein nicht bekannt. Sie können entweder gemessen (teuer und führt nicht immer zu eindeutigen Ergebnissen) oder angenommen werden (günstig und eindeutige - aber vielleicht falsche - Ergebnisse) -> Annahmen müssen daher plausibel sein.
+
+Präferenzen müssen daher Vollständig und Vergleichbar (mit Alternativen) sein. Über Transitivität können Präferenzen zueinander gewichtet werden (A > B und B > C -> A > C).
+
+Rational Choice ist die Wahl der Mittel mit denen man unter des Kenntnisstands der Präferenzen des Akteurs annimmt, diese am besten erfüllen zu können. 
+
