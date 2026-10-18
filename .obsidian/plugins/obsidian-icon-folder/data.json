@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiBinary",
+      "LiBadgeCent",
+      "LiGlobe",
+      "LiFile"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +32,13 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "9 - Politikwissenschaften": {
+    "iconName": "LiGlobe",
+    "iconColor": "#c1aef4"
+  },
+  "9 - Politikwissenschaften/0 - PDFs": {
+    "iconName": "LiFile",
+    "iconColor": "#f4f190"
   }
 }

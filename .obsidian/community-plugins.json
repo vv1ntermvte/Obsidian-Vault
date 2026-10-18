@@ -1,12 +1,12 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-icon-folder",
-  "calendar",
   "editing-toolbar",
   "copilot",
   "pdf-plus",
   "omnisearch",
   "obsidian-style-settings",
-  "better-search-views"
+  "better-search-views",
+  "quickadd",
+  "homepage"
 ]
