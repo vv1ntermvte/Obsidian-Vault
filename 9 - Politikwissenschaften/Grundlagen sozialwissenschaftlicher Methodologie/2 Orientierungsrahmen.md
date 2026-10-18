@@ -2,7 +2,7 @@
 | Datum         | 15/10/2026 15:05                                     |
 | ------------- | ---------------------------------------------------- |
 | Course        | [[Grundlagen sozialwissenschaftlicher Methodologie]] |
-| Vortragende/r | Prof. T. Paul                                        |
+| Vortragende/r | Katharina T. Paul                                    |
 | Folien        | ![[02_Methodologie_WiSe26_Paul.pdf]]                 |
 | Tags          | [[Politikwissenschaften]]                            |
 # Related Topic Notes

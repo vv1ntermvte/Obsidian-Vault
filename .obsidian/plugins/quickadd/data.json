@@ -1,5 +1,174 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "50f12fd1-9745-4402-a81b-9529a2d10b2d",
+      "name": "GSM",
+      "type": "Template",
+      "command": true,
+      "templatePath": "5 - Templates/Course Templates/GSM.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Platzhalter"
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "9 - Politikwissenschaften/Grundlagen sozialwissenschaftlicher Methodologie"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "endOfLine",
+        "requireActiveFile": true,
+        "linkType": "link",
+        "displayText": "none",
+        "destination": {
+          "type": "activeFile"
+        }
+      },
+      "copyLinkToClipboard": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "a0121afe-4563-461a-bd49-c329bd04fe6a",
+      "name": "FEP",
+      "type": "Template",
+      "command": true,
+      "templatePath": "5 - Templates/Course Templates/FEP.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Platzhalter"
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "9 - Politikwissenschaften/Fachspezifische Einführung Politikwissenschaft"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "endOfLine",
+        "requireActiveFile": true,
+        "linkType": "link",
+        "displayText": "none",
+        "destination": {
+          "type": "activeFile"
+        }
+      },
+      "copyLinkToClipboard": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "650e53c5-54b4-45c0-b561-c8561ff94789",
+      "name": "IGP",
+      "type": "Template",
+      "command": true,
+      "templatePath": "5 - Templates/Course Templates/IGP.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Platzhalter"
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "9 - Politikwissenschaften/Interdisziplinäre Grundlagen der Politikwissenschaft"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "endOfLine",
+        "requireActiveFile": true,
+        "linkType": "link",
+        "displayText": "none",
+        "destination": {
+          "type": "activeFile"
+        }
+      },
+      "copyLinkToClipboard": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "0dc78f5e-4349-4edc-bd8c-ac59efb7e48f",
+      "name": "WTG",
+      "type": "Template",
+      "command": true,
+      "templatePath": "5 - Templates/Course Templates/WTG.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Platzhalter"
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "9 - Politikwissenschaften/Wissenschaftstheorie und -geschichte"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "endOfLine",
+        "requireActiveFile": true,
+        "linkType": "link",
+        "displayText": "none",
+        "destination": {
+          "type": "activeFile"
+        }
+      },
+      "copyLinkToClipboard": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
