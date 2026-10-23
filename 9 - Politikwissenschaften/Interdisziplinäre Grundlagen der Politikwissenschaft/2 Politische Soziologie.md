@@ -40,10 +40,60 @@ Fazit:
 
 Diese Erkenntnisse führten zu seiner Abwendung von der Demokratie. 
 
-### Vilfredo Pareto
+##### Vilfredo Pareto
 Demokratie ist ein andauernder Kreislauf von Eliten. Eliten sind an der Macht und werden durch neue Eliten ersetzt, wenn sie sich nicht mehr halten können. -> Weiterführende Forschung im Gegenstand des klassischen Elitismus.
 
 Michels Argumente fügen sich auch in die Annahme der Unausweichlichkeit des Elitismus ein. Demokratie kann aus seiner Perspektive nicht für große Organisationen funktionieren.
 
-### Kritik
-Vernachlässigung vieler Aspekte und fragwürdige normative Annahmen. Überhöhtes Bild des Konzepts Elite allgemein.Die Beweggründe von Eliten werden nicht bedacht und es wird nicht unterschieden
+##### Kritik
+Vernachlässigung vieler Aspekte und fragwürdige normative Annahmen. Überhöhtes Bild des Konzepts Elite allgemein, die Beweggründe von Eliten werden nicht bedacht und es wird nicht unterschieden zwischen Mitgliedern der einzelnen Parteien (Elite als Masse, in der Realität gibt es aber auch Parteikonkurrenz und innerparteiliche Konflikte, werden hier nicht bedacht)
+
+##### Interdisziplinarität bei Michels
+Michels Analysen entstanden zu einem Zeitpunkt, zu dem die Politikwissenschaft in Deutschland und Italien nicht als eigenständige Disziplin existierte. Daher finden sich Begriffe und Konzepte aus vielen anderen Disziplinen in seinen Analysen. Die Annahme eines Führungsbedürfnis der Masse entspringt der Psychologie. 
+
+### Seymour Martin Lipset
+Prägte die Analyse von Parteipolitik und politischer Interessen. Politische Interessen ergeben sich aus der Position von Interessengruppen in der Gesellschaft (z.b. Kapital gegen Arbeit oder Stadt gegen Land).
+
+Buch: 'Political Man: The Social Bases of Politics'. Erscheint 1960 -> Zeitalter der großen Volksparteien, Politik des sozialen Ausgleichs. In den 60ern kamen die sozialen Wohlfahrtsstaaten auf -> sozialer Aufschwung und viele individuelle Freiheiten (Fordistischer Kapitalismus). Lipset kommt zu dem Schluss, dass die Stabilität von Demokratien mit Faktoren in der Gesellschaft (Wohlstand, Modernisierung, Bildung, usw.) abhängig ist. 
+
+##### Coleman'sche Badewanne
+Behaviouralistische Theorie und Grundlage für Lipsets Thesen. Phänomene auf der Mikroebene lassen sich durch Phänomene auf der Makroeben erklären / sind von diesen beeinflusst. 
+
+In den 50ern und 60ern war der Behaviouralismus der dominante Ansatz der Politikwissenschaft. Sucht nach Regelmäßigkeiten im menschlichen Verhalten. 
+
+##### Zentrale Thesen
+Warum konnten manche Staaten die Demokratie erhalten, während andere in den Faschismus rutschten? Lipsets Antwort: Stand der wirtschaftlichen Entwicklung. Wohlstand, Bildung, etc. erzeugten stabilere Demokratien. 
+
+Wie lässt sich Extremismus erklären? Extremismus entsteht aus einem Gefühl der Bedrohung und Unterrepräsentation, Nicht aus beispielsweise aus Armut. 
+
+##### Kritiken
+Insbesondere methodische Kritik daran, ob Lipsets Schlüsse sich kausal begründen lassen. Der Zusammenhang 'Wirtschaftliche Entwicklung  Demokratie' könnte auch umgekehrt erfolgen. Außerdem sind Lipsets Analysen sehr eurozentristisch und ignorieren Aspekte wie globale Ungleichheit, Macht- und Abhängigkeitsverhältnisse.
+
+##### Interdisziplinarität
+Politikwissenschaft, Soziologie, Psychologie und Kulturwissenschaften lassen sich nach Lipset über den Behaviouralismus miteinander verbinden. Starker Verfechter des Behaviouralismus.
+
+### Gøsta Esping-Andersen
+Forschung zum Wohlfahrtsstaat, Machtressourcenansatz. 
+
+Wie lassen sich Wohlfahrtsstaaten unterscheiden? Ankerpunkt der Dekommodifizierung. 
+
+> [!PDF|important] [[2026W_210005_BAK2_E3_Politische Soziologie.pdf#page=47&selection=14,0,32,6&color=important|2026W_210005_BAK2_E3_Politische Soziologie, p.47]]
+> > Dekommodifizierung = Reduktion, Minimierung bzw. Lockerung des Warencharakters der Arbeit
+
+Arbeitskraft ist im Kapitalismus entscheidend. Der Wohlfahrtsstaat dient dazu, die Notwendigkeit zur Aufbringung von Arbeitskraft zu lockern (z.b. soziale Absicherung für Kranke, Arbeitslose, usw.). In verschiedenen Wohlfahrtsstaaten gibt es unterschiedliche Institutionen die Dekommodifizierung bewirken. 
+
+Unterscheiden kann man:
+- Liberale Wohlfahrtsregime 
+	- z.b. USA, Australien, Großbritannien, Japan
+	- geringe Dekommodifizierung
+	- Leistungen restriktiv and Bedürftigkeit gekoppelt
+- Konservativ-korporatistische Wohlfahrtsregime
+	- z.b. Österreich und Deutschland
+	- stärkere Dekommodifizierung
+	- Dienen dazu, den sozialen Status durch Dekommodifizierung abzusichern. Forciert stark das klassische Familienbild
+- universalistisches Wohlfahrtsstaatsmodell
+	- vor allem skandinavische Länder
+	- schwerer Zugang aber höchste Dekommodifizierung
+
+##### Interdisziplinarität
+Der Wohlfahrtsstaat weißt soziologische, politikwissenschaftliche, ökonomische und historische Dimensionen auf.
