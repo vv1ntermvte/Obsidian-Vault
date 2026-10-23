@@ -30,7 +30,7 @@ Theorie-Empirie Kreislauf: Beeinflussen sich Gegenseitig. Theorien werden auf Ba
 ### Gegensatzpaare
 Sozialwissenschaftliche Forschung kann anhand mehrerer Gegensatzpaare klassifiziert werden.
 
-#### Erklären vs. Verstehen
+##### Erklären vs. Verstehen
 Wie kann man naturwissenschaftliches Denken auf die Sozialwissenschaften anwenden?
 In den Naturwissenschaften werden insbesondere Phänomene erklärt. Mill wollte soziale Phänomene auf Bedingungen und Regelmäßigkeiten zurückführen um so Prognosen treffen zu können. Aber man kann sich in sozialen Strukturen nicht auf einen Ursache-Wirkungszusammenhang verlassen.
 
@@ -40,22 +40,22 @@ Verstehen ist die Interpretation, Deutung und Begründung menschlicher Handlunge
 
 In der Forschung läuft Erklären und Verstehen allerdings meist parallel. Weber: Soziales Handeln verstehen und dadurch in Ablauf und Wirkung erklären. 
 
-#### Nomothetisch vs. Idiographisch
+##### Nomothetisch vs. Idiographisch
 Nomothetische Forschung befasst sich mit Gesetzmäßigkeiten. Gegenstand der Forschung ist etwas Allgemeines. Idiographische Forschung befasst sich mit dem Besonderen und Speziellen. 
 
 Idiographische Position: Menschliches Handlung ist höchst dynamisch und folgt nicht eine bestimmbaren Entwicklung. Daher können keine allgemeinen Gesetzmäßigkeiten festgestellt werden. Stattdessen sollen zum Beispiel spezielle gesellschaftliche Phänomene betrachtet werden.
 
-#### Induktive vs. Deduktiv
+##### Induktive vs. Deduktiv
 Bei induktiven Erklärungen wird versucht vom Besonderen auf das Allgemeine zu schließen. Beobachtungen werden gemacht und Datenerhoben, aufgrund dieser wird eine Hypothese und Theorie aufgestellt -> Hypothesengenerierend.
 
 Bei der Deduktion wird vom Allgemeinen auf das Besondere geschlossen. Bestehende Theorien werden genutzt, um zu versuchen, soziale Phänomene zu erklären. Mithilfe bestehender Gesetzmäßigkeiten können logische Ableitungen durchgeführt werden, die neue Phänomene erklären können -> Hypothesenprüfend.
 
 Problem: Die soziale Welt ist so komplex, das kaum alle Bedingungen kontrolliert werden können. daher:
 
-#### Probabilistisches Erklärungsmodell (induktiv-statistisch)
+##### Probabilistisches Erklärungsmodell (induktiv-statistisch)
 Statt A -> B (Wenn A, dann B), A -> B mit einer bestimmten Wahrscheinlichkeit. Besser geeignet um Prognosen aufzustellen (da Prognosen nicht mit absoluter Sicherheit eintreffen müssen)
 
-#### Quantitativ vs. Qualitativ
+##### Quantitativ vs. Qualitativ
 Quantitative Forschung: Hypothesen werden aufgestellt und mithilfe von systematischer Messung und Beobachtung überprüft. 
 Beispiele:
 - Standardisierte Befragungen
