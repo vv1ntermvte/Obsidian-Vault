@@ -6,3 +6,4 @@ Tags: [[Politikwissenschaften]]
 - [[Rational Choice]]
 	- [[Forschungswerkstatt - Wahlverhalten in Österreich]]*****
 - [[Historischer Materialismus]]
+	- [[Forschungswerkstatt - Klimapolitik und die umkämpfte Rolle negativer Emissionen]]
