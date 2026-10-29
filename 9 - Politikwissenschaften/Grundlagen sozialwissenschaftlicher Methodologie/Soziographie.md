@@ -1,7 +1,7 @@
 
 | Datum         | 2026-10-28 18:30                                     |
 | ------------- | ---------------------------------------------------- |
-| Course        | [[Grundlagen sozialwissenschaftlicher Methodologie]] |
+| Course        | [[9 - Politikwissenschaften/2 - Course Indexes/Grundlagen sozialwissenschaftlicher Methodologie]] |
 | Vortragende/r | Katharina T. Paul                                    |
 | Folien        | ![[03_Methodologie_WiSe26_Steindl-Kopf.pdf]]         |
 | Tags          | [[Politikwissenschaften]]                            |
