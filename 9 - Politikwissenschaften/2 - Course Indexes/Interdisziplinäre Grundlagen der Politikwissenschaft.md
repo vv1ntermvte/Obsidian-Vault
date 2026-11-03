@@ -5,4 +5,5 @@ Tags: [[Politikwissenschaften]]
 - [[1.2 Disziplinarität und Interdisziplinarität]]
 - [[2 Politische Soziologie]]
 - [[3 Politische Psychologie]]
+- [[Politische Ökonomie]]
 
