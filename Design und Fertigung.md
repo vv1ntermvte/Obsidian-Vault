@@ -5,4 +5,3 @@ ikea effect, 80:20 rule, uncanny valley
 ##### Lecture 2
 
 Algorithms can be creative, but they need random noise and nondeterminism to replicate it.
-

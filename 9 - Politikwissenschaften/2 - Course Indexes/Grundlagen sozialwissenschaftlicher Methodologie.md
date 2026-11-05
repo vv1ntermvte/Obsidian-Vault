@@ -4,4 +4,6 @@ Tags: [[Politikwissenschaften]]
 - [[Vorlesung No. 1 - 08.10.2026]]
 - [[2 Orientierungsrahmen]]
 - [[Soziographie]]
-- [[9 - Politikwissenschaften/Grundlagen sozialwissenschaftlicher Methodologie/Grundlagen sozialwissenschaftlicher Methodologie]]
+- [[Grundlagen ethnographischer Arbeitsweise]]
+- [[Meinungsforschung und Wahlforschung]]
+- 
