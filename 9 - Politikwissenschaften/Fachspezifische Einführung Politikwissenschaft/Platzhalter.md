@@ -17,3 +17,4 @@ This also led to a class and race division between NGO workers that where predom
 
 However, the term Ngoization also reduces the reality of feminist struggle to a binary opposition between these and past feminist movements, that are idealized as properly political. 
 
+Political Ehnography can be used to analyze the members of NGOs, to understand their goals and reasons. 
