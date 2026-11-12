@@ -40,8 +40,28 @@ Lazarsfeld und Oskar Morgenstern engagierten sich für die Gründung eines sozia
 ##### Sozialplanung vs. Gesellschaftskritik
 
 Erstes eigenständiges Studium der Soziologie an der Universität Wien 1966. Sehr konservativ ausgerichtet mit vielen Elementen der Rechts- und Wirtschaftswissenschaften, bei der eher das Gestalten der Gesellschaft im bestehenden System im Vordergrund stand. Erfuhr starke Kritik von Seiten der Studierenden, da es als Systemstabilisierend und unkritisch aufgefasst wurde. Nach Protesten und Besetzungen wurde ein geisteswissenschaftliches Studium der Soziologie eingeführt; beide Institute wurden im Zuge der Bologna-Reformen zu einem Studium zusammengeführt. 
-### Politikwissenschaft an der Uni Wien
+### Politikwissenschaft
 
 1916 Entstehung eines Studiums der Staatswissenschaft, wurde 1926 wieder aufgelöst.
 
-Mit der Zeit wuchs die Forderung nach einem neuen dedizierten Studium immer weiter, stieß aber aus den Rechtswissenschaften auf großen Wiederstand, auch weil die Politikwissenschaft als "Revolutionswissenschaft"
+Mit der Zeit wuchs die Forderung nach einem neuen dedizierten Studium immer weiter, stieß aber aus den Rechtswissenschaften auf großen Wiederstand, auch weil die Politikwissenschaft als "Revolutionswissenschaft" und staatsgefährdend gesehen wurde. Erst mit den sozialistischen Regierungen der 70er Jahre, konnte 1977 ein Institut für Politikwissenschaft und 1980 ein Diplomstudium durchgesetzt werden.
+
+### Kultur- und Sozialanthropologie
+
+Forschung vor dem 2. Weltkrieg ebenfalls hauptsächlich nicht an Universitäten sondern in Form der "Völkerkunde" in Museen und privaten Sammlungen. 
+
+Hat in Form der "Rassenkunde" und "Rassenhygiene" und allgemein kolonialer und ausbeuterischer Tendenzen sehr problematische Züge angenommen. Das Auseinanderleben der "naturwissenschaftlichen" und sozialwissenschaftlichen Disziplinen führt 1929 zu einer Teilung in zwei Institute. Die vor und während des Nationalsozialismus etablierten Strömungen hatten noch bis lang in die Nachkriegszeit großen Einfluss.
+
+Schließlich kommt es aber doch zu einer Abwendung von der Völkerkunde und einer kritischen Aufarbeitung der Institutsgeschichte. 
+
+### Publizistik- und Kommunikationswissenschaft
+
+Vor dem zweiten Wissenschaft als "Zeitungswissenschaft". Unterlagen einer gewissen Einflussnahme, da sie nicht durch Hochschulbudgets, sondern von Verlegern finanziert wurden. 1938 Institutioanlisierung an der Uni Wien als eigenes Institut auf direkte Anweisung Göbbels'. 
+
+Nach dem 2. Weltkrieg Versuch einer Neudefinition. Empirische Ausrichtung ab den 1970er Jahren und Distanz zu Verlegern und Zeitungen. Aufgrund hoher Nachfrage Verschiebung vom Rand- zum Massenstudium. 
+
+Ab 2004 eine eigene Fakultät aller Sozialwissenschaften, die eine Stärkung des sozialwissenschaftlichen Profils in der Forschung zur Folge hatte. Damit auch eine Entstehung vieler kleinerer Disziplinen:
+- Demographie
+- Internationale Entwicklung
+- Wissenschafts- und Technikforschung
+- Pflegewissenschaft
