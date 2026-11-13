@@ -36,4 +36,6 @@ Konsensdemokratien schließen möglichst viele Stimmen mit ein, beruhen in ihrer
 
 Nachweis von Kausalität im Zusammenhang mit Institutionen ist allerdings schwer, da wir nicht beide Situationen (jene mit einer Änderung an der Institution und jene ohne einer solchen Änderung) gleichzeitig betrachten können. Wir können allerdings einen Vergleich zwischen verschiedenen Aspekten in unterschiedlichen Staaten anstellen (Parteien, Wählerschaft, Abgeordnete, etc.). Wie kann man sich allerdings sicher sein, dass festgestellte Unterschiede tatsächlich auf Unterschiede in den Institutionen beruhen?
 
--> Das Forschungsdesign muss so aufgebaut werden, dass 
+-> Das Forschungsdesign muss so aufgebaut werden, dass alle anderen Faktoren, die sich auf die festgestellten Unterschiede auswirken können, ausgeschlossen werden (Kontrolle über die unabhängigen Variablen). Das geht zum Beispiel im Fall von Gemeinden, wenn eine Gesetzgebung erst ab einer bestimmten Einwohnerzahl eintritt. Im Bereich um diesen Übergang hat die Einwohnerzahl keinen Einfluss mehr auf das Verhalten und somit kann die Auswirkung der Maßnahme selbst betrachtet werden (Beispielsweise tritt ein Gesetz erst ab 5000 Einwohnern in Kraft. Zwei Gemeinden mit je 1000 und 10.000 Einwohnern lassen sich in Bezug auf die Auswirkungen dieses Gesetzes schlecht untersuchen, da sich Unterschiede auch auf die abweichende Einwohnerzahl zurückführen lassen könnten. Bei zwei Gemeinden mit je 4500 und 5500 Einwohnern ist dieser Unterschied aber vernachlässigbar)
+
+

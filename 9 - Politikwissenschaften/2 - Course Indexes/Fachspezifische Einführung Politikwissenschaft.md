@@ -8,6 +8,6 @@ Tags: [[Politikwissenschaften]]
 - [[Historischer Materialismus]]
 	- [[Forschungswerkstatt - Klimapolitik und die umkämpfte Rolle negativer Emissionen]]
 - [[Feminism]]
-	- [[Sozialwissenschaftliche Disziplinen an der Universität Wien]]
+	- [[Forschungswerkstatt - Colombian NGO Feminism]]
 - [[Institutionen]]
-	- 
+	- [[Forschungswerkstatt - Global environmental negotiations]]
