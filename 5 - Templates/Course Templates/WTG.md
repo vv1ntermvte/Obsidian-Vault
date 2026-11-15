@@ -1,6 +1,6 @@
 | Datum         | {{date}} {{time}}                        |
 | ------------- | ---------------------------------------- |
-| Course        | [[Wissenschaftstheorie und -geschichte]] |
+| Course        | [[4 Wissenschaftstheorie und -geschichte]] |
 | Vortragende/r | Maximilian Focher                        |
 | Folien        | Link_to_PDF                              |
 | Tags          | [[Politikwissenschaften]]                |

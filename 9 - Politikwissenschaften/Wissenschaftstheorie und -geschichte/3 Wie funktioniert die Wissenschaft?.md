@@ -1,6 +1,6 @@
 | Datum         | 2026-11-05 16:46                         |
 | ------------- | ---------------------------------------- |
-| Course        | [[Wissenschaftstheorie und -geschichte]] |
+| Course        | [[4 Wissenschaftstheorie und -geschichte]] |
 | Vortragende/r | Ulrike Felt                              |
 | Folien        | ![[5_2026_11_05_SOWI_WITHGE_UF.pdf]]     |
 | Tags          | [[Politikwissenschaften]]                |

@@ -1,7 +1,7 @@
 
 | Datum         | 16/10/2026 13:16                                   |
 | ------------- | -------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]] |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]] |
 | Vortragende/r | Julia Partheymüller                                |
 | Folien        | ![[AUTNES – Julia Partheymüller.pdf]]              |
 | Tags          | [[Politikwissenschaften]]                          |

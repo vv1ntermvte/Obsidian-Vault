@@ -1,6 +1,6 @@
 | Datum         | 2026-10-20 13:16                                         |
 | ------------- | -------------------------------------------------------- |
-| Course        | [[Interdisziplinäre Grundlagen der Politikwissenschaft]] |
+| Course        | [[3 Interdisziplinäre Grundlagen der Politikwissenschaft]] |
 | Vortragende/r | Armin Puller                                             |
 | Folien        | ![[2026W_210005_BAK2_E3_Politische Soziologie.pdf]]      |
 | Tags          | [[Politikwissenschaften]]                                |

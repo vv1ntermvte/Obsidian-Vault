@@ -2,7 +2,7 @@
 
 | Datum         | 2026-11-06 13:17                                            |
 | ------------- | ----------------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]]          |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]          |
 | Vortragende/r | Lucie Naude                                                 |
 | Folien        | ![[Researching NGO feminism in Colombia - Lucie Naudé.pdf]] |
 | Tags          | [[Politikwissenschaften]]                                   |

@@ -1,7 +1,7 @@
 
 | Datum         | 2026-10-27 13:15                                         |
 | ------------- | -------------------------------------------------------- |
-| Course        | [[Interdisziplinäre Grundlagen der Politikwissenschaft]] |
+| Course        | [[3 Interdisziplinäre Grundlagen der Politikwissenschaft]] |
 | Vortragende/r | Armin Puller                                             |
 | Folien        | ![[2026W_210005_BAK2_E4_Politische Psychologie.pdf]]     |
 | Tags          | [[Politikwissenschaften]]                                |

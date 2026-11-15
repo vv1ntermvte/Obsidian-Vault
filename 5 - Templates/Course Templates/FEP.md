@@ -1,7 +1,7 @@
 
 | Datum         | {{date}} {{time}}                                  |
 | ------------- | -------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]] |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]] |
 | Vortragende/r |                                                    |
 | Folien        | Link_to_PDF                                        |
 | Tags          | [[Politikwissenschaften]]                          |

@@ -1,6 +1,6 @@
 Willkommen im Vault!
 # Vorlesungen: 
-- [[Fachspezifische Einführung Politikwissenschaft]]
-- [[Grundlagen sozialwissenschaftlicher Methodologie]]
-- [[Interdisziplinäre Grundlagen der Politikwissenschaft]]
-- [[Wissenschaftstheorie und -geschichte]]
+- [[1 Fachspezifische Einführung Politikwissenschaft]]
+- [[2 Grundlagen sozialwissenschaftlicher Methodologie]]
+- [[3 Interdisziplinäre Grundlagen der Politikwissenschaft]]
+- [[4 Wissenschaftstheorie und -geschichte]]

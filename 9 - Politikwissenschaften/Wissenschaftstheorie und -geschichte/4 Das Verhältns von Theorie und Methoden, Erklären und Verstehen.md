@@ -1,6 +1,6 @@
 | Datum         | 2026-11-12 16:46                         |
 | ------------- | ---------------------------------------- |
-| Course        | [[Wissenschaftstheorie und -geschichte]] |
+| Course        | [[4 Wissenschaftstheorie und -geschichte]] |
 | Vortragende/r | Maximilian Focher                        |
 | Folien        | ![[6_2026_11_12_SOWI_WITHGE_MF.pdf]]     |
 | Tags          | [[Politikwissenschaften]]                |

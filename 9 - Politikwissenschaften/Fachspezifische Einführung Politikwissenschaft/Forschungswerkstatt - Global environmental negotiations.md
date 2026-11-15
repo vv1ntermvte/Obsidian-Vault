@@ -1,7 +1,7 @@
 
 | Datum         | 13/11/2026 13:17                                          |
 | ------------- | --------------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]]        |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]        |
 | Vortragende/r |                                                           |
 | Folien        | ![[Global environmental negotiations - Alice Vadrot.pdf]] |
 | Tags          | [[Politikwissenschften]]                                  |

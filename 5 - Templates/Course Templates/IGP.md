@@ -1,6 +1,6 @@
 | Datum         | {{date}} {{time}}                                        |
 | ------------- | -------------------------------------------------------- |
-| Course        | [[Interdisziplinäre Grundlagen der Politikwissenschaft]] |
+| Course        | [[3 Interdisziplinäre Grundlagen der Politikwissenschaft]] |
 | Vortragende/r | Armin Puller                                             |
 | Folien        | Link_to_PDF                                              |
 | Tags          | [[Politikwissenschaften]]                                |

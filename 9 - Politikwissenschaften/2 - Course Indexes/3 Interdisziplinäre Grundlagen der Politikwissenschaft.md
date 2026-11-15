@@ -6,4 +6,5 @@ Tags: [[Politikwissenschaften]]
 - [[2 Politische Soziologie]]
 - [[3 Politische Psychologie]]
 - [[4 Politische Ökonomie]]
+- [[Politische Geschichtswissenschaft]]
 

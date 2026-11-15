@@ -1,7 +1,7 @@
 
 | Datum         | 2026-10-23 11:34                                      |
 | ------------- | ----------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]]    |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]    |
 | Vortragende/r | Ulrich Brand                                          |
 | Folien        | ![[4. Historischer Materialismus - Ulrich Brand.pdf]] |
 | Tags          | [[Politikwissenschaften]]                             |

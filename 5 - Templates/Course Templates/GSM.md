@@ -1,7 +1,7 @@
 
 | Datum         | {{date}} {{time}}                                    |
 | ------------- | ---------------------------------------------------- |
-| Course        | [[9 - Politikwissenschaften/2 - Course Indexes/Grundlagen sozialwissenschaftlicher Methodologie]] |
+| Course        | [[2 Grundlagen sozialwissenschaftlicher Methodologie]] |
 | Vortragende/r | Katharina T. Paul                                    |
 | Folien        | Link_to_PDF                                          |
 | Tags          | [[Politikwissenschaften]]                            |

@@ -1,7 +1,7 @@
 
 | Datum         | 2026-11-06 11:34                                   |
 | ------------- | -------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]] |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]] |
 | Vortragende/r | Dorit Geva                                         |
 | Folien        | ![[5. Feminism - Dorit Geva.pdf]]                  |
 | Tags          | [[Politikwissenschaften]]                          |

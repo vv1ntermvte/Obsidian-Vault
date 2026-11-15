@@ -1,6 +1,6 @@
 | Datum         | 2026-11-03 13:26                                         |
 | ------------- | -------------------------------------------------------- |
-| Course        | [[Interdisziplinäre Grundlagen der Politikwissenschaft]] |
+| Course        | [[3 Interdisziplinäre Grundlagen der Politikwissenschaft]] |
 | Vortragende/r | Armin Puller                                             |
 | Folien        | ![[2026W_210005_BAK2_E5_Politische Ökonomie.pdf]]        |
 | Tags          | [[Politikwissenschaften]]                                |

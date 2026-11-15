@@ -1,7 +1,7 @@
 
 | Datum         | 16/10/2026 11:33                                   |
 | ------------- | -------------------------------------------------- |
-| Course        | [[Fachspezifische Einführung Politikwissenschaft]] |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]] |
 | Vortragende/r | Wolfgang Müller                                    |
 | Folien        | ![[3. Rational Choice – Wolfgang Müller.pdf]]      |
 | Tags          | [[Politikwissenschaften]]                          |
