@@ -31,7 +31,7 @@ Laut Anderson ist eine Nation eine vorgestellte Gemeinschaft, die begrenzt und s
 Der europäische Kolonialismus hat nationalistischen Bewegungen in anderen Teilen der Welt stark eingeschränkt, weshalb diese von Anderson nicht ausreichend berücksichtigt wurden.
 ##### Interdisziplinarität
 
-a
+Anderson erklärt die Entstehung von Nationen und Nationalismus in Form eines kulturhistorischen Ansatzes mit politik- sowie makrohistorischen und kulturanthroplogischen Vergleichen. Außerdem befasst sich sein Buch mit Literatur-, Sprachwissenschaftlichen und Sozialgeschichtlichen Themen. Der interdisziplinäre Ansatz ist hier integrativ, weil all diese, für die Herstellung nationaler Gemeinschaftlichkeit verantwortlichen Aspekte zusammenwirken und nicht als voneinander getrennt betrachtet werden.
 ### Carbon Democracy
 
 Ein Buch von Historiker und Politikwissenschaftler Timothy Mitchell. Mitchell nimmt an, das Demokratien stark mit fossilen Brennstoffen zusammenhängen. Die Energiewende von Kohle auf Öl war mit einem starken Wechsel der politischen Mächteverhältnisse verbunden. Es kann daher nicht davon ausgegangen werden, dass Demokratien rein auf Ideenkonstrukten beruhen, sondern wesentlich von der materiellen Infrastruktur und Organisation von Energie beeinflusst werden.
@@ -39,6 +39,27 @@ Ein Buch von Historiker und Politikwissenschaftler Timothy Mitchell. Mitchell ni
 Mitchell argumentiert, dass zum Verstehen von Energie nicht Kapitalflüsse, sondern die Energiegeschichte betrachtet werden sollte. Wer hat die Kontrolle über Energieflüsse, wo werden Kohle und Öl produziert, wohin geliefert? Politische Verhältnisse sind sehr stark um die Kontrolle dieser Flüsse herum gestaltet. 
 ##### Kernthesen
 
-Die Demokratie entstand historisch mit dem Aufkommen d
+Die Demokratie entstand historisch mit dem Aufkommen der Kohle. Das Aufkommen von Kohle hat einem großen Teil der Volksmasse (den Mienenarbeiter), große Möglichkeiten zum Durchsetzen von politischen Forderungen (beispielsweise in Form von Streiks) gegegeben. Daher konnten Demokratien entstehen, da Zugeständnisse den Arbeitern gegenüber nötig waren. Mit dem Übergang zum Öl veränderte sich dieses Verhältnis der politischen Macht, da nur noch kleinere dezentral organisierte Belegschaften benötigt wurden, die ihre politischen Forderungen schlechter durchsetzen konnten. 
 
+Mitchell sieht die Historie des Kolonialismus in den Ölregionen des Nahen Osten und imperiale Interventionen als verantwortlich für die autoritäre Ausrichtung dortiger politischer Systeme. 
+##### Interdisziplinarität
 
+Trotz existierender Kritik darüber, wie viel Einfluss Kohle und Öl allein tatsächloch auf politische Systeme haben können machen Mitchells Arbeiten klar, dass Energie, Umweltgeschichte, etc. in der Erklärung politischer Verhältnisse nicht vernachlässigt werden dürfen. Die Verbindung dieser Felder begründet sich bei Mitchell insbesondere durch die Akteur-Netzwerk-Theorie, die von der Handlungsmacht von Dingen ausgeht.
+
+### Muskismus: Aufstieg und Herrschaft eines Technoking
+
+Buch von Quinn Slobodian und Ben Tarnoff. Das Buch beschäftigt sich mit der Person Elon Musk und den Ideen, mit denen er die Gesellschaft transformieren möchte. Popkulturell wird Musk oft als Genie, Erlöser, Clown, Bösewicht dargestellt. Diese Darstellung hilft allerdings nicht dabei, seine Ziele und Handlungen zu verstehen; stattdessen müssen seine Taten ernst genommen werden. Dafür untersuchen die Autoren Musks Verhältnis zu Markt und Staat, seine libertäre Rhetorik und seine Annäherung an die extreme Rechte. 
+##### Analogie zwischen Fordismus und Muskismus
+
+Ford war beispielhaft für ein Kapitalismusmodell in den USA der 1930er Jahre, das von Massenproduktion durch Fließbandarbeit und Massenkonsum geprägt war. Ist Musk in demselben Maße prägend für das heutige Entwicklungsmodell?
+
+Musks Ideologie ist geprägt von technologisch-utopischem Fortschrittsglauben an eine gloreiche Zukunft, allerdings gleichzeitig durch autokratische Führung und Kulturkampfpolitik. Diese ambivalenten Elemente werden von Musk kombniert.
+##### Erkenntnisse
+
+Musk ist kein klassischer Libertärer. Libertäre würden die vollkommene Abschaffung des Staats fordern, um in maximaler individueller Autonomie leben zu können. Musk ist aber nicht per se gegen den Staat, sondern gegen einen Staat, der in seinem Sinne handelt und sein Geschäft nicht einschränkt, weshalb er sich für eine Stärkung autoritärer Strukturen einsetzt. Deshalb beruhen seine Unternehmungen nicht auf einer Zurückdrängung des Staats sondern auf dessen Indienstnahme. Beispielsweises durch das Bereitstellen von Ressourcen über SpaceX (Raketenstarts) oder Starlink (Ukraine) macht sich Musk unverzichtbar und schafft Abhängigkeiten von Staaten gegenüber seinen Unternehmen und Schlussendlich damit eine Unterwerfung des Staates.
+##### Kritik
+
+Fraglich ist, ob beim Muskismus, also dem Vorgehen einer einzelnen Person, von einer gänzlich neuen Form des kaptialistischen Wirtschaftens gesprochen werden kann, oder ob hier nicht eine Überpersonalisierung gesellschaftlicher Tendenzen stattfindet. 
+##### Interdisziplinarität
+
+Das Buch selbst hat eher die Form einer Biographie und daher grundsätzlich eine geschichtswissenschaftliche Perspektive. Die Person Musk dient hier aber als Schnittstelle sehr vieler verschiedener Disziplinen, da sich das Buch darüber mit Themen wie Kaptialismus, Staatlichkeit, Geopolitik, Technik und Kulturkampf befasst. Die Analyse der Person Musk bedarf daher einer Synthese diverser Disziplinen, darunter Politikwissenschaft, politische Ökonomie, Kulturtheorie, Medien- und Technikforschung.
