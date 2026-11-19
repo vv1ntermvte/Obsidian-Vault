@@ -1,7 +1,7 @@
 
 | Datum         | 13/11/2026 11:36                                      |
 | ------------- | ----------------------------------------------------- |
-| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]    |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]  |
 | Vortragende/r | Laurenz Ennser-Jedenastik                             |
 | Folien        | ![[6. Institutionen - Laurenz Ennser-Jedenastik.pdf]] |
 | Tags          | [[Politikwissenschaften]]                             |
