@@ -17,7 +17,7 @@ Liberalism as a political philosophy argues that all humans are at their core eq
 
 Liberal feminism tends to work from within institutions (from within governments by establishing new legislative measures, or from within the workplace). 
 
-Regarding gender quotas, liberal feminism is not united. A position in favor of quotas would be, that a quote removes an unfair barrier within party networks, that blocks women from entering these positions. The argument against feminism would be, that people are not part of groups but individuals and thus positions should be granted solely based on qualification. Quotas would be a tool that stands contrary to this position of meritocracy. 
+Regarding gender quotas, liberal feminism is not united. A position in favor of quotas would be, that a quote removes an unfair barrier within party networks, that blocks women from entering these positions. The argument against quotas would be, that people are not part of groups but individuals and thus positions should be granted solely based on qualification. Quotas would be a tool that stands contrary to this position of meritocracy. 
 ### Marxist Feminism
 
 Emerged in the '68 movement, where a rediscovery of Marxism outside of the framework established under Stalin emerged. In comparison to liberal feminism, it is a more radical critique of a system reinforcing inequality.
@@ -27,7 +27,7 @@ What sets humans apart from other animals is their capacity for creating things 
 The goal of Marxist feminism in its most radical form would be to end capitalism and patriarchy as a whole. In practice, there is the proposal to make unpaid work more visible as real work and to equalize the support of care work that is granted by the state. From a Marxist perspective, quotas are not bad, but not enough to lead to equality, because they are based in a framework of class differences that is not abolished by them. Quotas are good but shouldn't disguise remaining inequalities.
 ### Intersectional Feminism
 
-Intersectionality is a perspective that argues for multiple structures of oppression that are interconnected, with gender being one among others like race, class, religion, etc. A critique brought up by intersectional feminism is that previous forms of feminism where predominantly white and claimed to speak for all women, while in reality looking from a white, middle-class perspective. In that way, white feminism, white feminism reproduces the exclusion it criticizes in patriarchy. 
+Intersectionality is a perspective that argues for multiple structures of oppression that are interconnected, with gender being one among others like race, class, religion, etc. A critique brought up by intersectional feminism is that previous forms of feminism where predominantly white and claimed to speak for all women, while in reality looking from a white, middle-class perspective. In that way, white feminism reproduces the exclusion it criticizes in patriarchy. 
 
 Intersectional feminism critiques gender quotas for reducing the problem of under-representation in parliament to just gender. In fact, there are many more factors like age, ethnicity, educational background, etc. that are not tackled by a gender quota and may be marginalized, if a gender quota is seen as the end-all-be-all. The question is not just how many women, but which women.
 ### Rethinking the categories of gender

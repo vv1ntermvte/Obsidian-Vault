@@ -8,7 +8,7 @@ Folien:
 
 #### Thick and Thin descriptions
 Wink vs. blink as an example for the difference between thick and thin descriptions. A simple action as a blink can convey complex meanings. Understanding this meaning requires interpretation from the observer. 
-A thin description would only focus on the external, observable aspects of the blink. A thick description also tries to understand the intention behind the action by analyzing the its context.
+A thin description would only focus on the external, observable aspects of the blink. A thick description also tries to understand the intention behind the action by analyzing its context.
 
 > [!PDF|important] [[2. Interpretive methods – Dorit Geva.pdf#page=3&selection=9,0,9,18&color=important|2. Interpretive methods – Dorit Geva, p.3]]
 > > thick description
