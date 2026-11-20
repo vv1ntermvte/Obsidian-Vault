@@ -11,6 +11,7 @@ Tags: [[Politikwissenschaften]]
 	- [[Forschungswerkstatt - Colombian NGO Feminism]]
 - [[Institutionen]]
 	- [[Forschungswerkstatt - Global environmental negotiations]]
+- [[Der Staat]]
 
 # Literature Notes:
 - [[The State - Hay Lister Marsh]]
