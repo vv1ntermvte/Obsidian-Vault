@@ -12,6 +12,7 @@ Tags: [[Politikwissenschaften]]
 - [[Institutionen]]
 	- [[Forschungswerkstatt - Global environmental negotiations]]
 - [[Der Staat]]
+	- [[Forschungswerkstatt - Warum liberale Staaten an den Klimazielen scheitern]]
 
 # Literature Notes:
 - [[The State - Hay Lister Marsh]]
