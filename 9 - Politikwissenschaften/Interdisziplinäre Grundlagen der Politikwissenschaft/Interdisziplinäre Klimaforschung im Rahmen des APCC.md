@@ -16,4 +16,10 @@ Es besteht die Tendenz sich mit den gestiegenen Temperaturen in Europa abzufinde
 Das IPCC besteht aus einem Plenum der Regierungen aller Mitgliedsstaaten und mehreren Arbeitsgruppen, die sich mit wissenschaftlichen Grundlagen, Folgen & Anpassung und Minderung befassen. Der IPCC forscht dabei nicht selber zu den Auswirkungen des Klimawandels sondern trägt bereits gewonnene Erkenntnis zusammen und wertet diese aus. Das APCC arbeitet nach derselben Methodik.
 
 Das APCC besteht aus verschiedenen Kapiteln, die jeweils andere Dimensionen der Klimawissenschaft abbilden und unterschiedliche wissenschaftliche Disziplinen in sich vereinen, beispielsweise in Form von politischen, ökonomischen, rechtlichen und gesellschaftlichen Aspekten, die im Bericht behandelt werden.
+##### Strukturelle Probleme
+
+Insgesamt konnten grob drei Problemkomplexe festgestellt werden, die einer effizienten und nachhaltigen Klima-Governence im Weg stehen:
+- Strukturelle Faktoren (Wettbewerbsorientierung, soziale Ungleichheit, Vorstellungen von Freiheit, Fortschritt und Wohlstand die das fossile Modell stützen)
+- Macht, Interessen & Konflikte (Ungleiche Ressourcen- und Machtverteilung, Verzögerung von klimapolitischen Maßnahmen durch mächtige Akteure und Verteilungsfragen, da eine ökologische Transformation Gewinner und Verlierer erzeugt)
+- Politikgestaltung (Fragen der Rolle des Staates in der Transformation bezüglich Regulierung, Investitionen, Infrastruktur, etc. sowie fossile Pfadabhängigkeiten die Handlungsspielräume einschränken). 
 
