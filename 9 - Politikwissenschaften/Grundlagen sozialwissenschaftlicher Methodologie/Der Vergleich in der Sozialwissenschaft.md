@@ -45,4 +45,11 @@ Zentrale Schlussfolgerung: Die Wahrscheinlichkeit für einen Suizid steigt mit d
 
 Geschätzt wird Durkheims Forschung zum Suizid für seine theoretischen und empirischen Bemühungen und Hypothesen-prüfende systematische Methodologie. 
 
-Kritisiert wird er allerdings für seine Typologie des Suizids (Idealtypen), für die die Datenbasis eigentlich viel zu klein war und, dass er stark verallgemeinernde Aussagen trifft und versucht von aggregaten Daten auf individuelles Verhalten schließt (was eigentlich nicht geht).  
+Kritisiert wird er allerdings für seine Typologie des Suizids (Idealtypen), für die die Datenbasis eigentlich viel zu klein war und, dass er stark verallgemeinernde Aussagen trifft und versucht von aggregaten Daten auf individuelles Verhalten schließt (was eigentlich nicht geht).
+
+Was Durkheim allerdings zeigen konnte, war, dass es Unterschiede zwischen verschiedenen Gruppen gibt und verschiedene Faktoren sich positiv (Berufsverbände) oder negativ (Arbeitsteilung) auf die soziale Integration wirken kann.
+##### Faktoren für gute quantitative Forschung aus
+
+- Objektivität (Rolle der Forschenden)
+- Realibilität (zuverlässige Messmethoden)
+- Validität (zuverlässige Ergebnisse)
