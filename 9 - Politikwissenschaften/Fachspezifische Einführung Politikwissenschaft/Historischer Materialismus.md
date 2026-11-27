@@ -1,7 +1,7 @@
 
 | Datum         | 2026-10-23 11:34                                      |
 | ------------- | ----------------------------------------------------- |
-| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]    |
+| Course        | [[1 Fachspezifische Einführung Politikwissenschaft]]  |
 | Vortragende/r | Ulrich Brand                                          |
 | Folien        | ![[4. Historischer Materialismus - Ulrich Brand.pdf]] |
 | Tags          | [[Politikwissenschaften]]                             |
@@ -17,7 +17,7 @@ Die Wissenschaft kann Phänomene wie die Neoklassische Ökonomie erklären und a
 
 ### Historischer Materialismus
 
-Die Gesellschaft lässt sich nicht durch ein übergeordnetes Bewusstsein erklären, sondern die konkreten (materialistischen) Verhältnisse der Menschen erklären. Lebensverhältnisse von Menschen begründen sich durch Faktoren wie Klasse, Nation, Geschlecht. Die Rolle von Staat und Wirtschaft auf die Gesellschaft wird in den Fokus gerückt.
+Die Gesellschaft lässt sich nicht durch ein übergeordnetes Bewusstsein, sondern durch die konkreten (materialistischen) Verhältnisse der Menschen erklären. Lebensverhältnisse von Menschen begründen sich durch Faktoren wie Klasse, Nation, Geschlecht. Die Rolle von Staat und Wirtschaft auf die Gesellschaft wird in den Fokus gerückt.
 
 Produktionsweisen in unserer Gesellschaft ergeben sich aus Produktivkräften (Wie wird etwas hergestellt) und den Produktionsverhältnissen (Unter welchen Bedingungen erfolgt die Produktion, also Klassen, Eigentum, Geschlechterverhältnisse, usw.). Der Fokus auf die Geschichtlichkeit dieser Produktionsweisen, also wie sie sich historisch ergeben haben, macht aus dem Materialismus unter Marx den historischen Materialismus.
 
