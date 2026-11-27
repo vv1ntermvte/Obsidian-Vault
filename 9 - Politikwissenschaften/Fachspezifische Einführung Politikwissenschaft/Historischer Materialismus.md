@@ -64,4 +64,11 @@ Dritter Faktor: Konkurrenz zwischen Unternehmen untereinander. Drang zur Monopol
 Die kapitalistische Produktionsweise ist inherent dazu angelegt, Krisen zu entwickeln (z.b. Überproduktion oder Überakkumulation bei zu wenig Investitionen und Konsum). Unternehmen müssen beispielsweise Produktionsmengen planen und schätzen, wie viele Wareneinheiten abgesetzt werden können. Nach Marx überschätzen sich Unternehmen hier tendenziell, da sie eher mit einem höheren Mehrwert planen als mit einem geringeren -> Überproduktion. 
 
 Kapitalismusanalyse ist immer auch Kapitalismuskritik. Erkenntnis über die strukturelle Ungleichheit die mit ihm verbunden ist, die Ambivalenz von Fortschritt (Fortschritt bedeutet oft auch Rückschritte in anderen Bereichen) und die bestehenden Nord-Süd-Verhältnisse
+### Materialistische Staatstheorie
+
+Der historische Materialismus geht davon aus, dass nicht Individue, sondern insbesondere kollektive Akteure und Handlungsbedingungen für politsches Handeln entscheidend sind. 
+
+In der marxistischen Staatstheorie gibt es zwei relevante Verständnisse des Staats. Einerseits sichert der Staat nach innen sowie nach außen die Interessen (z.b. Garantie des Eigentums) des Bürgertums ab. Zudem wird der Staat aber auch als soziales Verhältnis verstanden, der in Form von Regeln die Bedingungen für die Akkumulation absichert, in dem sich aber auch gesellschaftliche Kräfterverhältnisse bündeln (in Form von Lobbygruppen, Gewerkschaften, etc.) und Konflikte ausgetragen werden.
+
+Da Staatseinnahmen aus der kapitalistischen Produktionsweise bezogen werden, haben Staaten ein inhärentes Interesse an kapitalistischem Wachstum.
 
